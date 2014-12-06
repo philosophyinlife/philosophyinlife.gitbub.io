@@ -1,0 +1,93 @@
+---
+title: Yoga of Wisdom
+author: Sadhaka
+excerpt: 'When their is no change in mental state, on meeting or separating from any object, individual, situation, circumstance, etc., rather whether worldly objects are acquired or not, whether there is profit or loss, whether there is honor or dishonor, praise or blame, whether one remains healthy or not, inspite of encountering various different situations, one remains equanimous - such Yoga of wisdom or equanimity, the Lord gives to His devotees.'
+layout: post
+permalink: /yoga-wisdom/
+ks_metadata:
+  - 'a:7:{s:4:"lang";s:2:"en";s:8:"keywords";s:0:"";s:19:"keywords_autoupdate";s:1:"0";s:11:"description";s:0:"";s:22:"description_autoupdate";s:1:"0";s:5:"title";s:0:"";s:6:"robots";s:12:"index,follow";}'
+wpr-options:
+  - YToxOntpOjE7YToxMDp7czozOiJuaWQiO3M6MToiMSI7czo3OiJzdWJqZWN0IjtzOjA6IiI7czo4OiJ0ZXh0Ym9keSI7czowOiIiO3M6ODoiaHRtbGJvZHkiO3M6MDoiIjtzOjc6ImRpc2FibGUiO2k6MDtzOjE1OiJub2N1c3RvbWl6YXRpb24iO2k6MTtzOjEyOiJub3Bvc3RzZXJpZXMiO2k6MTtzOjEwOiJodG1sZW5hYmxlIjtpOjE7czoxMjoiYXR0YWNoaW1hZ2VzIjtpOjE7czoyMToic2tpcGFjdGl2ZXN1YnNjcmliZXJzIjtpOjE7fX0=
+categories:
+  - Hinduism
+  - Philosophy
+  - Spirituality
+tags:
+  - absorbed
+  - attain oneness completeness
+  - desire spiritual knowledge
+  - god
+  - lord
+  - wisdom
+  - wisdom equanimity
+  - work
+  - yoga wisdom
+---
+<p style="text-align: center;">
+  : Shree Hari :
+</p>
+
+<p style="text-align: center;">
+  Shravan Shukla Dashami, Vikram Samvat 2063, Shukravar
+</p>
+
+Gist: A devotee of the God has no desires besides to love only God. They have only one work &#8211; to remain ever absorbed in the Lord, which means all their work becomes God&#8217;s work. God makes them ever steadfast, gives them the wisdom of equanimity, where there remains no desires for mundane worldly pleasures. Nothing remains for them in realizing the Lord. They attain oneness, completeness, and a state of perfection.
+
+<h2 style="text-align: center;">
+  Yoga of Wisdom to A Devotee<em><strong> (Gita 10:10)</strong></em>
+</h2>
+
+> <p style="text-align: center;">
+>   <em>Tesaam satatayuktaana bhajataam pritipurvakam</em><br /> <em> Dadaami Buddhiyogam tam yena maamupayaanti te (Gita 10:10)<br /> </em>
+> </p>
+
+Upon them, ever devout and worshipping Me always with love, I confer that Yoga of wisdom (equanimity),  by which they attain Me. (Gita 10:10)
+
+A devotee of the Lord, has no desire to gain wisdom or equanimity or anything else, besides the Lord. They have only one work &#8211; to remain ever absorbed in the Lord. Besides being engaged and absorbed in God, there is no other work for them. Thereafter, all their work, their entire responsibility becomes the responsibility of the Lord. Rather whatever the Lord wishes to have done, whatever He wishes to give etc., all work becomes Lord&#8217;s work. They become mere instruments in His hands. So the Lord confers, the [<span style="text-decoration: underline;">Yoga of wisdom</span>][1], the <span style="text-decoration: underline;">Yoga of equanimity</span> on them.
+
+<h3 style="text-align: center;">
+  Tesaam satatayuktaana &#8211; &#8220;Ever Steadfast&#8221;
+</h3>
+
+Those whose minds and very being are fixed on the Lord, who sing and share the passtimes, secrets, qualities, and glories of the Lord and who remain ever contented and delighted in loving  
+Him only, such devotees that are always and constantly absorbed in the Lord are called &#8220;ever steadfast&#8221;.
+
+<h3 style="text-align: center;">
+  Bhajataam pritipurvakam
+</h3>
+
+&#8211; <span style="text-decoration: underline;">Such devotees desire neither spiritual knowledge nor dispassion</span>. When they desire neither [spiritual knowledge][2] nor dispassion, then how could they desire mundane pleasures, prosperity or occult powers. Their sight never goes to such things. In their hearts there is no significance or importance of occult powers etc. With deep love and devotion, believing only God to be theirs, they automatically without any effort remain absorbed in God. They have no relationship of any sort with any thing or any individual. Their only desire, only worship is that at every breath, to be ever absorbed in the Lord. Within they are so much in love with the Lord, that besides the Lord there is no other desire, even in their dreams.
+
+<h3 style="text-align: center;">
+  Dadaami Buddhiyogam tam
+</h3>
+
+&#8211; When their is no change in mental state, on meeting or separating from any object, individual, situation, circumstance, etc., rather whether worldly objects are acquired or not, whether there is profit or loss, whether there is honor or dishonor, praise or blame, whether one remains healthy or not, inspite of encountering various different situations, one remains equanimous &#8211; such *Yoga of wisdom or equanimity*, the Lord gives to His devotees.
+
+<h3 style="text-align: center;">
+  Maamupayaanti te
+</h3>
+
+&#8211; When the devotee&#8217;s mind, and entire being is fully absorbed in God, and they remain ever satisfied, and love only God, then what else is remaining in realizing the Lord, that God finds it necessary to say that they will then attain Me? *Realizing God here implies that those loving devotees, that feel the deficiencies in themselves, those are no longer lacking, rather they will attain oneness, completeness, and a state of perfection*.
+
+Ram Ram
+
+From &#8220;Sadhak Sanjivani&#8221; in English by Swami Ramuskhdasji
+
+To read online &#8220;Sadhak Sanjivani&#8221; in Hindi by Swami Ramuskhdasji, please visit &#8211;  
+<a rel="nofollow" href="http://www.swamiramsukhdasji.org/swamijibooks/pustak/pustak1/html/SadhakSanjeevni/main.html" target="_blank">http://www.swamiram sukhdasji. org/swamijibooks /pustak/pustak1/ html/SadhakSanje evn\<br /> i/main.html</a> 1,500 pages of translation, indepth commentaries on the Gita.
+
+To gain clarification on the topic discussed in these daily messages, please send your questions to: <a rel="nofollow" href="http://uk.mc296.mail.yahoo.com/mc/compose?to=gita-talk%40yahoogroups.com" target="_blank">gita-talk@yahoogrou ps.com</a>
+
+For full pravachans in Hindi please visit www.swamiramsukhdas ji.org
+
+To read online spiritual books, please visit  
+<a rel="nofollow" href="http://www.swamiramsukhdasji.org/swamijibooks/" target="_blank">http://www.swamiram sukhdasji. org/swamijibooks /</a>
+
+To read all previous messages, please visit:  
+<a rel="nofollow" href="http://groups.yahoo.com/group/sadhaka/" target="_blank">http://groups. yahoo.com/ group/sadhaka/</a>
+
+P.S: Please pass on this message to whomever you think would benefit from the same.
+
+ [1]: http://www.philosophyinlife.info/354/yoga-wisdom.htm "Yoga of Wisdom"
+ [2]: http://www.philosophyinlife.info/category/spirituality

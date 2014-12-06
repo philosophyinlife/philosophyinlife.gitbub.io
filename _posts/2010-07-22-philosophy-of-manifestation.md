@@ -1,0 +1,72 @@
+---
+title: Philosophy of Money and Manifestation
+author: Yogesh Bailwal
+excerpt: Today in this material world we know that there is only one solution to most of our problems and its money, huge disposable income which can fulfill all our needs and wants. That is why we see manifestation classes to attract more money more income based on the philosophy and laws of attraction. Will this help us, our society....
+layout: post
+permalink: /philosophy-of-manifestation/
+ks_metadata:
+  - 'a:7:{s:4:"lang";s:2:"en";s:8:"keywords";s:0:"";s:19:"keywords_autoupdate";s:1:"0";s:11:"description";s:0:"";s:22:"description_autoupdate";s:1:"0";s:5:"title";s:0:"";s:6:"robots";s:12:"index,follow";}'
+wpr-options:
+  - YToxOntpOjE7YToxMDp7czozOiJuaWQiO3M6MToiMSI7czo3OiJzdWJqZWN0IjtzOjA6IiI7czo4OiJ0ZXh0Ym9keSI7czowOiIiO3M6ODoiaHRtbGJvZHkiO3M6MDoiIjtzOjc6ImRpc2FibGUiO2k6MDtzOjE1OiJub2N1c3RvbWl6YXRpb24iO2k6MTtzOjEyOiJub3Bvc3RzZXJpZXMiO2k6MTtzOjEwOiJodG1sZW5hYmxlIjtpOjE7czoxMjoiYXR0YWNoaW1hZ2VzIjtpOjE7czoyMToic2tpcGFjdGl2ZXN1YnNjcmliZXJzIjtpOjA7fX0=
+wpsd_autopost:
+  - 1
+categories:
+  - Happiness
+  - Life
+  - Money
+  - Philosophy
+  - Positive Thinking
+tags:
+  - chasing money
+  - law of attraction
+  - modern philosophy of manifestation
+  - money
+  - money cycle
+  - philosophies in life
+  - Philosophy
+  - philosophy of manifestation
+  - philosophy of money
+  - role of money in life
+---
+<h2 style="text-align: center;">
+  Philosophy of Manifesting & Attracting Money
+</h2>
+
+Today in this material world we know that there is only one solution to most of our problems and its money, huge disposable income which can fulfill all our needs and wants. That is why *we see manifestation classes to attract more money more income based on the [philosophy and law of attraction][1]*.  
+<a href="http://www.philosophyinlife.info/go/manifestation-challange-video.htm" target="_blank"><img class="alignleft size-full wp-image-59" title="philosophy-of-manifestation" src="http://www.philosophyinlife.info/wp-content/uploads/2010/07/philosophy-of-manifestation1.jpg" alt="Philosophy of Manifestation and Attracting Money" width="222" height="97" /></a>  
+<span style="font-size: large;"><br /> May be it is good and even helpful to concentrate on money, creating more wealth but what are we doing, are we going towards peace, happiness or trying to get trapped in modern jungle of economics again. Accumulating money beyond our basic necessities, social necessities, family necessities is actually a sign of unrest in life. Money is actually a desire, when we make it stronger and stronger it will not net us stay calm it will motivate us to perform, to do something, to make it more mightier and thus we loose our balance in life. Our life is only limited to money making process, we call it career, a path towards achievements, a way to reach our cherished goals in life.<br /> </span>
+
+<h2 style="text-align: center;">
+  Its MONEY, MONEY, MONEY
+</h2>
+
+<span style="font-size: large;"><br /> Making money isn&#8217;t a bad thing but if we do it at the cost of our life, working without taking care of our responsibilities, our family, even our society then its not good. We&#8217;ll loose something in life, which we won&#8217;t be able to get back with our material success after reaching our desired destination. Money is very powerful until you have it but once you have more then enough then you start realizing its weakness. It can only buy food but fails to create appetite. It is able to pay for expensive beds but fails in getting good night sleep.<br /> </span>  
+<span style="font-size: large;"><br /> Money is both our best friend and a dreaded enemy. If we are unable to control our needs and desires, unable to balance our life and work we can get entrapped in its vicious circle. I&#8217;m not against making money but I&#8217;ve myself noticed its influence, its addiction (also known as money addiction) and how it can influence a persons behavior. A person who has currently possessing enough money will not find peace in philosophy but economics. Natural foods will not satisfy his appetite but packaged foods, restaurants. He/she will not find peace at home but in hotels, clubs etc. He/she will not like to enjoy happiness but will like to buy objects for pleasure.</span>
+
+Most people actually fail to enjoy all the boons of life in <a href="http://www.philosophyinlife.info/20/modern-philosophy-of-work-and-money-part-i.htm" target="_self">chasing money</a>, they do not get enough time to think, intro-inspect. They are part of a never ending process and when the time is up, they either face some health problem or family problem and some of them do not even end up having enough money to make later years of there life a bit easy, comfortable.
+
+<h3 style="text-align: center;">
+  MODERN PHILOSOPHY AND ROLE OF MONEY
+</h3>
+
+<span style="font-size: large;"><br /> When we are fully involved in a business (called money making) we hardly get enough time to think, to look around, if it is working then we don&#8217;t even know the direction we are moving. It takes our whole time and efforts and if it happens to be a wrong direction, wrong way of living then we will not understand this until its all over, until we reach the end of the tunnel.  Most social problems, family problems, problems related to health, issues with environment degradation, mental illness are actually to some extent created by our blind chase for (virtual) development, social progress, raising living standards, economic wellness. I&#8217;m sometimes surprised by the market news they say that a region/nation is progressing when there is an increase in production or demand for industrial goods. They say that economy is progressing, its moving in positive path. Well, may be it is true to some extent but what about the products (whether they are really needed, will they really help or make a deteriorating situation grim). I think that most products that are produced and play a key role in economic figures of modern world are actually not required in that number of form, they are actually giving birth to other problems and thus giving birth to a new market for some new products to solve that problem and thus add one more figure to economic development.</span>
+
+> Today our market forces (industries) are so powerful that they control almost everything, our governments, our societies, our health, global politics, foreign policies. We think, we are powerful, we have power to neglect anyone of them but we are misguided/misinformed. We only have a choice as a consumer, we only have power to choose any one of them (we cannot neglect all of them). We are today truly controlled by market forces, by media that depends on them, governments too are not financially independent they depend on taxes from these companies/industries, politicians are politicians (dealers in hope) and what about each one of us, we too are directly or indirectly dependent on them for our job, our business or anything. Even internet and web based jobs/freelancing is not free from the clutches of market forces. We are all now in some part of this vicious circle. There is no way out at least in regions which are so called well developed because they do not have any natural source to depend on, they cannot survive without it
+
+Today our social welfare, environment program-mes, scientific research too depends on there funds nobody can say no to all of them, tell each one of them to only develop, produce or sell the goods/services that are actually helpful and needed like everything provided by mother nature. We have actually entered an infinite loop and if it is so then it will take some time to realize this and to correct all mistakes one after the other. I can feel these types of developments taking place, a similar feeling evolving and spreading at a slow pace. (it seems as if I&#8217;ve drifted away from main topic but I know its also interconnected)
+
+Watch these video on <a href="http://www.philosophyinlife.info/1/philosophy-of-manifestation.htm" target="_self">philosophy of manifesting money</a> with **Bob Proctor**
+
+Part I
+
+<p style="text-align: center;">
+</p>
+
+Part II
+
+<p style="text-align: center;">
+</p>
+
+<span style="font-size: large;"><br /> If you want to see <strong>more videos </strong>on <strong>philosophy of manifestation </strong>to attract money then you can see more videos in 21 Day Law of Attraction Challenge. It is nothing but a series of videos on ways to attract money and the challenge is that you&#8217;ll earn(attract/manifest) at least $500 during this period. Its interesting. So, if you too want to attract money then take this challenge (its free, they only ask for email to send link each day) visit <a href="http://www.philosophyinlife.info/go/manifestation-challange-video.htm" target="_blank">Money Manifestation Video Challenge</a>.<br /> </span>
+
+ [1]: http://www.philosophyinlife.info/612/law-attraction.htm "Philosophy in Law of Attraction Vs Positive Thinking"

@@ -1,0 +1,58 @@
+---
+title: Utilize Time Wisely
+author: Sadhaka
+layout: post
+permalink: /time-utilize-wisely/
+ks_metadata:
+  - 'a:7:{s:4:"lang";s:2:"en";s:8:"keywords";s:0:"";s:19:"keywords_autoupdate";s:1:"0";s:11:"description";s:0:"";s:22:"description_autoupdate";s:1:"0";s:5:"title";s:0:"";s:6:"robots";s:12:"index,follow";}'
+wpsd_autopost:
+  - 1
+wpr-options:
+  - YToxOntpOjE7YToxMDp7czozOiJuaWQiO3M6MToiMSI7czo3OiJzdWJqZWN0IjtzOjA6IiI7czo4OiJ0ZXh0Ym9keSI7czowOiIiO3M6ODoiaHRtbGJvZHkiO3M6MDoiIjtzOjc6ImRpc2FibGUiO2k6MDtzOjE1OiJub2N1c3RvbWl6YXRpb24iO2k6MTtzOjEyOiJub3Bvc3RzZXJpZXMiO2k6MTtzOjEwOiJodG1sZW5hYmxlIjtpOjE7czoxMjoiYXR0YWNoaW1hZ2VzIjtpOjE7czoyMToic2tpcGFjdGl2ZXN1YnNjcmliZXJzIjtpOjE7fX0=
+categories:
+  - Hinduism
+  - Life
+  - Philosophy
+  - Spirituality
+tags:
+  - appropriately utilizing time
+  - attain god
+  - circumstances doing work
+  - circumstances god indebted
+  - unfavorable circumstances
+  - Utilize Time Wisely
+  - utilizing time
+  - waste time
+---
+<p style="text-align: center;">
+  : Shree Hari :
+</p>
+
+<p style="text-align: center;">
+  Bhadrapad Shukla Trayodashi, Vikram Samvat 2063, Budhvar
+</p>
+
+6th September, 2006, Wednesday
+
+*Do not waste any time in frivolous activities*. By appropriately utilizing time, we can attain God / Salvation. In God Realization, all are independent. One who remains ever happy in all circumstances, God becomes indebted to such an individual. Rememberance of God is capable of destroying all unfavorable circumstances. Therefore while doing all work, remain in worshipful rememberance of God.
+
+<h2 style="text-align: center;">
+  Time &#8211; Utilize It Wisely
+</h2>
+
+We have one of the most precious things in our possession &#8211; TIME. Each and every second should be utilized with extreme caution, discrimination and understanding. Do not waste this time in frivolous activities. By appropriately utilizing this time, we can attain God. We can attain salvation.
+
+> Human birth is extremely rare, but having received this birth, man does not realize this rare opportunity. Sixty years of earned salaries, cannot buy sixty extra minutes to live. Just like our previous births, this birth&#8217;s family, house, etc will not in the least be remembered.
+
+To unnecessarily waste time, is a grave mistake. A watch will operate only till the battery lasts. In earning wealth, all are not independent, but in God Realization, all are independent.
+
+One who remains ever happy in all circumstances, God becomes indebted to such an individual.
+
+**Rememberance of God is capable of destroying all unfavorable circumstances.** Therefore while doing all work, remain in worshipful rememberance of God.
+
+Ram Ram
+
+[Time Utilize It Wisely][1] is from &#8220;***Satsang ke Phool***&#8221; in Hindi *by **Swami Ramsukhdasji, ***which was published in Yahoo Sadhaka Group, learn more about [*Sadhaka*][2] to join there group to get philosophical messages in email or visit there websites.
+
+ [1]: http://www.philosophyinlife.info/411/time-utilize-wisely.htm
+ [2]: http://www.philosophyinlife.info/388/sadhaks-hinduism-spirituality.htm "Sadhaka’s of Hinduism and Spirituality"

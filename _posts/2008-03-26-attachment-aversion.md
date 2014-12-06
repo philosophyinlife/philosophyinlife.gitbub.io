@@ -1,0 +1,56 @@
+---
+title: Philosophy of Attachment and Aversion
+author: Sadhaka
+excerpt: "If attachment and aversion were in us, then as long as we existed, attachment and aversion will also remain. But it is everyone's experience, that self remains at all times, and attachment and aversion do not remain, rather they come and go."
+layout: post
+permalink: /attachment-aversion/
+ks_metadata:
+  - 'a:7:{s:4:"lang";s:2:"en";s:8:"keywords";s:0:"";s:19:"keywords_autoupdate";s:1:"0";s:11:"description";s:0:"";s:22:"description_autoupdate";s:1:"0";s:5:"title";s:0:"";s:6:"robots";s:12:"index,follow";}'
+wpsd_autopost:
+  - 1
+wpr-options:
+  - YToxOntpOjE7YToxMDp7czozOiJuaWQiO3M6MToiMSI7czo3OiJzdWJqZWN0IjtzOjA6IiI7czo4OiJ0ZXh0Ym9keSI7czowOiIiO3M6ODoiaHRtbGJvZHkiO3M6MDoiIjtzOjc6ImRpc2FibGUiO2k6MDtzOjE1OiJub2N1c3RvbWl6YXRpb24iO2k6MTtzOjEyOiJub3Bvc3RzZXJpZXMiO2k6MTtzOjEwOiJodG1sZW5hYmxlIjtpOjE7czoxMjoiYXR0YWNoaW1hZ2VzIjtpOjE7czoyMToic2tpcGFjdGl2ZXN1YnNjcmliZXJzIjtpOjE7fX0=
+categories:
+  - Hinduism
+  - Philosophy
+  - Spirituality
+tags:
+  - actions performed
+  - attachment
+  - attachment aversion
+  - aversion
+  - pleasure and pain
+---
+<p style="text-align: center;">
+  :Shree Hari:
+</p>
+
+<p style="text-align: center;">
+  Chaitra Krishna Panchami Vikram Samvat 2064, Budhvar
+</p>
+
+<h2 style="text-align: center;">
+  Philosophy of Attachment and Aversion in <em>Bhagavad Gita</em>
+</h2>
+
+> When we assume that others are instrumental in providing pleasure and pain to us, then attachment and aversion ensue i.e. we get attached to the thing which we think provides pleasure and we have aversion towards that which will cause us pain.
+
+In other words, *attachment and aversion manifest, due to one&#8217;s own error*, there is no other reason. It is because of attachment and aversion that we fail to perceive the world as a **manifestation of God**, and instead view it as insentient (inert) and perishable. If attachment and aversion are rooted out, then there is nothing insentient, rather everything is consciousness &#8211; All is God &#8211; &#8220;*vasudevah sarvam*&#8221; (Gita 7:19).
+
+When attachment and aversion appear in the mind, one should not come under their sway i.e. one should not perform forbidden actions being swayed by them.
+
+If actions are performed, under the influence of attachment, the flaws (evils) will be strengthened. But if actions are not performed under the sway of attachment or aversion, then man will be filled with enthusiasm. Just like, when someone says bitter words to us, but we do not get angry, then within we experience some level of enthusiasm and joy, knowing that today we have been saved. But one should not consider this as their own strength, but the strength and power of God, that it is only with His grace that we are saved, or else we would have come under their sway. In this manner, if a [spiritual aspirant][1] sees any flaws at any time, then we should not come under their sway, and at the same time not consider the flaws as in themselves.
+
+If attachment and aversion were in us, then as long as we existed, attachment and aversion will also remain. But it is everyone&#8217;s experience, that self remains at all times, and attachment and aversion do not remain, rather they come and go. Attachment and aversion are incapable of accessing the Self (Soul, swayam), because the category of the Self is different from that of attachment and aversion.
+
+He who is the witness to the coming and going of attachment and aversion (of the fleeting nature of it), he is apart (separate) from attachment and aversion. In other words, attachment and aversion are separate from us, and that mind and intellect that helps us decipher that, is also separate &#8211; &#8220;*manogataan*&#8221; (Gita 2:55).
+
+From &#8220;*The Bhagavad Gita &#8211; Sadhak Sanjivani*&#8221; in Hindi pg 222, in English pg 389 **by Swami Ramsukhdasji**
+
+Ram Ram
+
+[Philosophy of Attachment and Aversion][2] was published as a message in [Sadhaka ][3]Group on Yahoo.
+
+ [1]: http://www.philosophyinlife.info/category/spirituality
+ [2]: http://www.philosophyinlife.info/458/attachment-aversion.htm "Philosophy of Attachment and Aversion"
+ [3]: http://www.philosophyinlife.info/388/sadhaks-hinduism-spirituality.htm "Sadhaka’s of Hinduism and Spirituality"

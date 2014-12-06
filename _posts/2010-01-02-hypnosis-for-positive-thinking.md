@@ -1,0 +1,80 @@
+---
+title: Hypnosis for Positive Thinking
+author: Yogesh Bailwal
+excerpt: If we are a positive thinker we may never require to learn anything like self hypnosis or ways to achieve success in life. A positive person gets all these gifts automatically from the nature. Hypnosis is itself a way to be positive, true and if we cannot develop a positive attitude in life, then even hypnosis will fail to bring any change.
+layout: post
+permalink: /hypnosis-for-positive-thinking/
+blogger_blog:
+  - www.philosophyinlife.info
+blogger_permalink:
+  - /2010/01/hypnosis-for-positive-thinking.html
+ks_metadata:
+  - 'a:7:{s:4:"lang";s:2:"en";s:8:"keywords";s:0:"";s:19:"keywords_autoupdate";s:1:"0";s:11:"description";s:0:"";s:22:"description_autoupdate";s:1:"0";s:5:"title";s:0:"";s:6:"robots";s:12:"index,follow";}'
+wpr-options:
+  - YToxOntpOjE7YToxMDp7czozOiJuaWQiO3M6MToiMSI7czo3OiJzdWJqZWN0IjtzOjA6IiI7czo4OiJ0ZXh0Ym9keSI7czowOiIiO3M6ODoiaHRtbGJvZHkiO3M6MDoiIjtzOjc6ImRpc2FibGUiO2k6MDtzOjE1OiJub2N1c3RvbWl6YXRpb24iO2k6MTtzOjEyOiJub3Bvc3RzZXJpZXMiO2k6MTtzOjEwOiJodG1sZW5hYmxlIjtpOjE7czoxMjoiYXR0YWNoaW1hZ2VzIjtpOjE7czoyMToic2tpcGFjdGl2ZXN1YnNjcmliZXJzIjtpOjA7fX0=
+categories:
+  - Life
+  - Philosophy
+  - Positive Thinking
+tags:
+  - art of hypnosis
+  - hypnosis
+  - hypnosis for positive thinking
+  - life
+  - philosophy of hypnosis
+  - positive
+  - positive hypnosis
+  - positive thinking
+  - power of positive thinking
+  - spontaneous changes in life
+  - thinking
+---
+<div style="text-align: center;">
+  <h2>
+    Philosophy of Hypnosis
+  </h2>
+</div>
+
+<div style="text-align: justify;">
+  <span style="font-size: large;">Positive thinking can be improved with hypnosis or in other words we can say we learn hypnosis with <a href="http://www.philosophyinlife.info/19/imagination-leads-to-realization.htm" target="_self">positive thinking</a>. Hypnosis is an art to develop power of our thoughts to such an extent that they start influencing our life and its surroundings directly.</span>
+</div>
+
+<div style="text-align: justify;">
+  <span style="font-size: large;"><br /> </span>
+</div>
+
+<div style="text-align: justify;">
+  <span style="font-size: large;">I don&#8217;t think of hypnosis as a black art, something which is anti-social because it is not. It is an art of calming our thoughts to such an extent that thoughts cease to exist and when a person is able to calm his/her thoughts to this level he/she can easily concentrate on a single object, a single thought.</span>
+</div>
+
+<div style="text-align: justify;">
+  <span style="font-size: large;"><br /> </span>
+</div>
+
+<div style="text-align: justify;">
+  <span style="font-size: large;"><strong>Hypnosis, positive thinking and philosophy</strong> can lead more <a href="http://www.philosophyinlife.info/18/philosophy-of-happiness.htm" target="_self">happiness in our life</a>, we can achieve more with our limited resources with a calm mind.</span>
+</div>
+
+<div style="text-align: justify;">
+  <span style="font-size: large;"><br /> </span>
+</div>
+
+<div style="text-align: justify;">
+  <span style="font-size: large;">Our life isn&#8217;t a mission, a company to get more market share and profits, a machine to get more output, <a href="http://www.philosophyinlife.info/25/life-is-simple-and-easy-enjoy-life.htm" target="_self">life is easy and cool</a> and <a href="http://www.philosophyinlife.info/29/everybody-has-a-right-to-survive.htm" target="_self">every body has a right to survive</a>. This is not just a positive view of life, a philosophy but the real meaning of life.</span>
+</div>
+
+<div style="text-align: justify;">
+  <span style="font-size: large;"><br /> </span>
+</div>
+
+> <div style="text-align: justify;">
+>   <span style="font-size: large;">If we can understand any of these <em>basic principles of life</em>, which are natural and not made by men then we can master any one of the skill that we love and can get all the benefits of life. We can do it with anything we like, by following anything that inspires us which can be either <em>art of hypnosis or positive thinking</em>. Any of them will lead to same destination i.e. <a href="http://www.philosophyinlife.info/38/hypnosis-for-positive-thinking.htm" target="_self">positive thinking will lead to self-hypnosis</a> or mastering art of hypnosis will lead to a positive mindset.</span>
+> </div>
+
+<div style="text-align: justify;">
+  Read more in a related post titled <a href="http://www.philosophyinlife.info/1/philosophy-of-manifestation.htm" target="_self">philosophy of manifestation</a> and watch this video on Hypnosis.
+</div>
+
+<div style="text-align: center;">
+  <span style="font-size: large;"></span>
+</div>

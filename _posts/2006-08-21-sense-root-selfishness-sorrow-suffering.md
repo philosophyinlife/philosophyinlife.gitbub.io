@@ -1,0 +1,64 @@
+---
+title: Root of Selfishness, Sorrow and Suffering
+author: Sadhaka
+layout: post
+permalink: /sense-root-selfishness-sorrow-suffering/
+ks_metadata:
+  - 'a:7:{s:4:"lang";s:2:"en";s:8:"keywords";s:0:"";s:19:"keywords_autoupdate";s:1:"0";s:11:"description";s:0:"";s:22:"description_autoupdate";s:1:"0";s:5:"title";s:0:"";s:6:"robots";s:12:"index,follow";}'
+wpsd_autopost:
+  - 1
+wpr-options:
+  - YToxOntpOjE7YToxMDp7czozOiJuaWQiO3M6MToiMSI7czo3OiJzdWJqZWN0IjtzOjA6IiI7czo4OiJ0ZXh0Ym9keSI7czowOiIiO3M6ODoiaHRtbGJvZHkiO3M6MDoiIjtzOjc6ImRpc2FibGUiO2k6MDtzOjE1OiJub2N1c3RvbWl6YXRpb24iO2k6MTtzOjEyOiJub3Bvc3RzZXJpZXMiO2k6MTtzOjEwOiJodG1sZW5hYmxlIjtpOjE7czoxMjoiYXR0YWNoaW1hZ2VzIjtpOjE7czoyMToic2tpcGFjdGl2ZXN1YnNjcmliZXJzIjtpOjE7fX0=
+categories:
+  - Hinduism
+  - Philosophy
+  - Spirituality
+tags:
+  - aspirant
+  - body
+  - desires
+  - Root of Selfishness
+  - sense
+  - serve
+  - Sorrow and Suffering
+  - spiritual aspirant
+---
+<p style="text-align: center;">
+  : Shree Hari :
+</p>
+
+<p style="text-align: center;">
+  Bhadrapad Krishna Trayodashi, Vikram Samvat 2063, Somvar
+</p>
+
+> Sense of &#8220;Mine&#8221;, leads to desires, makes one selfish, narrow and finite, and in turn unable to serve. One who renounces the sense of &#8220;mine&#8221;, can easily renounce desires, the root of all sorrows and suffering. *All desires can never be satisfied, resulting in pain of unfulfilled desires and dependency on desired objects*. Thus, one can become happy forever. One must never lose heart in achieving this aim.
+
+<h2 style="text-align: center;">
+  Sense of Mine &#8211; The Root of Selfishness, Sorrow and Suffering
+</h2>
+
+Some people doubt as to how their body will function and how they will be able to serve their family or society without a sense of &#8220;Mine&#8221; (possession) . But the fact is that a sense of mine causes an obstacle in serving the body, family or society. <span style="text-decoration: underline;"> The body of a man, who is free from the sense of Mine, is very well maintained and real service is rendered to the family and society by such a man</span>.
+
+He who has a sense of possession over his body, cannot serve the family. He who has a sense of mine for the family, cannot serve the society. He who has a sense of mine for the society, cannot serve the country. He who has a sense of mine for the Country, cannot serve the World. *It means that because of the sense of mine, he becomes narrow and finite*. Having a disinclination for serving others, he becomes selfish.
+
+Therefore for a spiritual aspirant, it is very essential to renounce the sense of mine. When a spiritual aspirant has a burning desire to renounce the sense of mine, it becomes very easy from him to renounce it. The reason is that when a spiritual aspirant has a disinclination for the world, and wants to have an inclination for God from the core of his heart, then the entire world and God, Himself are ready to help him. Therefore, a spiritual aspirant should never lose heart in achieving his aim. He can attain his aim with minimum effort and within a very short span of time. This is because God has bestowed upon him this human body by His immense grace, so that he may attain the aim of human life &#8211;
+
+### &#8220;Kabahunk kari karunaa nar dehi. Dait is binu hetu sanehi.&#8221; (Manasa, Uttara, 44:3)
+
+It is because of the sense of &#8220;Mine&#8221; that desires are born. If we have the sense of mine with this body, the need of the body will become our need i.e. we will have desire to get food, water, clothes, house etc. As soon as a spiritual aspirant renounces the sense of &#8220;mine&#8221;, he becomes capable of renouncing desires. This is because **the body and the world are made of the same material. This body cannot be separated from the world**. Therefore once the sense of &#8220;Mine&#8221; with the body is annihilated, the worldly desires automatically come to an end.
+
+The sense of &#8220;Mine&#8221; in the things which are acquired and lost, gives birth to desires. All desires of even a single person have never been satisfied till today, nor will they be fulfilled, nor can they be satisfied.
+
+The desires which have been fulfilled, their consequences are also painful. The reason is that if a desire is fulfilled, it gives birth to several other new desires and thus the pain of the new unfulfilled desires persists the same.
+
+A man holds that on fulfilling a desire he has become independent, but in reality he has become dependent on the things which he desired. It is because of heedlessness, he feels happy in dependence. To free him from this dependence, [God][1] by His blissful providence causes sorrows for him. But he being sad, slights that blissful providence. If he, instead of being sad from the sorrow, tries to discover the reason for his sorrow and gets rid of his desire, the root of sorrow and sufferings, he will become happy forever.
+
+Ram Ram
+
+***From &#8220;Sahaja Sadhana&#8221; in English by Swami Ramsukhdasji***
+
+More articles by Sadhak are listed under [Hinduism][2], read them or visit there site/ join there discussion group on spirituality.***  
+***
+
+ [1]: http://www.philosophyinlife.info/359/questions-god.htm "Questions About God"
+ [2]: http://www.philosophyinlife.info/category/spirituality/hinduism
