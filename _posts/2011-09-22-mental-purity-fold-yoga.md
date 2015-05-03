@@ -42,7 +42,7 @@ tags:
 ---
 ### 5 Layered Concept of Human Development
 
-The Panckosi(five layered) concept of human development towards perfection, occupies an important place in the Upanisadic thought. This <span style="text-decoration: underline;">five layered structure of human  personality underlines the course of mental and spiritual development where one rises from pure body consciousness to the ultimate subtle states of self realization</span>. This structure describes the steps in the path that leads one from animal mind to the state of human perfection where the person identifies oneself with the universal existence of one mind and oneness of whole creation. Having known the path to perfection, one obviously needs to know how to follow this path.
+The Panckosi(पंचकोशीय i.e. five layered) concept of human development towards perfection, occupies an important place in the Upanisadic thought. This <span style="text-decoration: underline;">five layered structure of human  personality underlines the course of mental and spiritual development where one rises from pure body consciousness to the ultimate subtle states of self realization</span>. This structure describes the steps in the path that leads one from animal mind to the state of human perfection where the person identifies oneself with the universal existence of one mind and oneness of whole creation. Having known the path to perfection, one obviously needs to know how to follow this path.
 
 The threefold Yogic path is the practical solution towards achieving this goal. The **knowledge and practice have to go together in order to succeed**.
 
