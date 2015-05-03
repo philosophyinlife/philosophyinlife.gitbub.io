@@ -1,5 +1,18 @@
-url: http://www.philosophyinlife.info
-name: 'Philosophy of Life &amp; Happiness'
-description: 'Happiness Is Integral Part of Life, Don&#039;t Ignore Happiness'
-gems:
-  - jekyll-sitemap
+# Site settings
+title: Philosophy of Life and Happiness
+header-img: img/home-bg.jpg
+email: info@philosophyinlife.info
+description: "Life is about living, happiness is about quality of living."
+baseurl: "/blog"
+url: "http://www.philosophyinlife.info"
+twitter_username: philosophynlife
+github_username:  philosophyinlife
+facebook_username:  philosophyinlife
+google_plus:  philosophyinlife
+
+# Build settings
+markdown: kramdown
+highlighter: pygments
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
