@@ -83,6 +83,6 @@ Social studies reveal that *high spiritual and emotional quotient are normally a
 You can read similar views in [Philosophy of eternal bliss-fullness][3] and [Role of Difficulties & Problems in Our Life][4].
 
  [1]: http://www.philosophyinlife.info/category/spirituality
- [2]: http://www.philosophyinlife.info/532/spirituality-basis-happiness.htm "Spirituality is The Basis for Happiness"
- [3]: http://www.philosophyinlife.info/15/philosophy-of-eternal-blissfulness-a-ceaseless-state-ii.htm "Philosophy of Eternal Blissfulness- A Ceaseless State-II"
- [4]: http://www.philosophyinlife.info/36/role-of-difficulties-and-problems-in-our-life.htm "Role of Difficulties and Problems in Our Life"
+ [2]: http://www.philosophyinlife.info/spirituality-basis-happiness/ "Spirituality is The Basis for Happiness"
+ [3]: http://www.philosophyinlife.info/philosophy-of-eternal-blissfulness-a-ceaseless-state-ii/ "Philosophy of Eternal Blissfulness- A Ceaseless State-II"
+ [4]: http://www.philosophyinlife.info/role-of-difficulties-and-problems-in-our-life/ "Role of Difficulties and Problems in Our Life"

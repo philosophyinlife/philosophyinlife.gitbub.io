@@ -29,4 +29,4 @@ Wish you all a very Happy Christmas, best time of the year for intro-inspection 
 <p style="text-align: center;">
 </p>
 
- [1]: http://www.philosophyinlife.info/592/happy-christmas.htm
+ [1]: http://www.philosophyinlife.info/happy-christmas/

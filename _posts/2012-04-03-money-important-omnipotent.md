@@ -22,4 +22,4 @@ The way in which money is influencing our life is dangerous, which can lead to a
 
 Most of our modern problems can be attributed to money and the way it is being used and misused. In the name of economic development we are somewhere getting too much influenced by money, it is creating a number of problems whether its environment problem like global warming, wild life or social problems, health problems. Each and every problem is somewhere connected to money.
 
- [1]: http://www.philosophyinlife.info/627/money-important-omnipotent.htm
+ [1]: http://www.philosophyinlife.info/money-important-omnipotent/

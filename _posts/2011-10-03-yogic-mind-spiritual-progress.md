@@ -38,5 +38,5 @@ In the supramental existence, the operating laws relate to the unified whole rat
 
 &#8220;[*Yogic mind in spiritual progress*][1]&#8221; is continued from previous post titled &#8220;[Mental purity & Three Fold Yoga][2]&#8221; written by ***Sh. V. V. Rampal*** which were published in &#8220;*Kalyana Kalpataru*&#8221; a monthly for the propagation of spiritual ideas and love for God.
 
- [1]: http://www.philosophyinlife.info/562/yogic-mind-spiritual-progress.htm "Yogic Mind in Spiritual Progress"
- [2]: http://www.philosophyinlife.info/540/mental-purity-fold-yoga.htm "Mental Purity & Three Fold Yoga"
+ [1]: http://www.philosophyinlife.info/yogic-mind-spiritual-progress/ "Yogic Mind in Spiritual Progress"
+ [2]: http://www.philosophyinlife.info/mental-purity-fold-yoga/ "Mental Purity & Three Fold Yoga"

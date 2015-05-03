@@ -68,5 +68,5 @@ The next step is the purification of the emotional content of human personality 
 
 This article [*Mental purity & Three Fold Yoga*][2] was written by ***Sh. V. V. Rampal*** which was published in Feb 2007 edition of &#8220;*Kalyana Kalpataru*&#8221; a monthly for the propagation of spiritual ideas and love for God.
 
- [1]: http://www.philosophyinlife.info/562/yogic-mind-spiritual-progress.htm "Yogic Mind in Spiritual Progress"
- [2]: http://www.philosophyinlife.info/540/mental-purity-fold-yoga.htm
+ [1]: http://www.philosophyinlife.info/yogic-mind-spiritual-progress/ "Yogic Mind in Spiritual Progress"
+ [2]: http://www.philosophyinlife.info/mental-purity-fold-yoga/

@@ -72,4 +72,4 @@ Ram Ram
 
 This article &#8220;*How to Improve Family Life*&#8221; was originally published by Yahoo Sadhaka Group, learn more about [Sadhaka][1].
 
- [1]: http://www.philosophyinlife.info/388/sadhaks-hinduism-spirituality.htm "Sadhaka’s of Hinduism and Spirituality"
+ [1]: http://www.philosophyinlife.info/sadhaks-hinduism-spirituality/ "Sadhaka’s of Hinduism and Spirituality"

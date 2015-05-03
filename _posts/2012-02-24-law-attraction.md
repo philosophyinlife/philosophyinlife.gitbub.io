@@ -59,10 +59,10 @@ Trying to fulfill wild desires without actually attaching it to a social cause c
 
 > We cannot change our self easily as we are not living in isolation, most of our time is spend in environment which is not conducive to such thoughts, we watch tv, movies, browse web, work in an office, talk to our friends and all these things push and pull our views, our thoughts and if we really want to make them positive, try things discussed about power of manifestation or law of attraction then we must first learn the tricks which can help us to keep our mind isolated from negative views and thoughts as and when we confront them (its like developing an immunity system, and most great saints, yogis master this only after years of practice).
 
- [1]: http://www.philosophyinlife.info/42/honesty-leads-to-happiness.htm
- [2]: http://www.philosophyinlife.info/612/law-attraction.htm
- [3]: http://www.philosophyinlife.info/255/philosophy-positive-thinking.htm
- [4]: http://www.philosophyinlife.info/276/adopting-postive-approach-life-improve-positive-thoughts.htm
- [5]: http://www.philosophyinlife.info/34/philosophy-of-honesty.htm
- [6]: http://www.philosophyinlife.info/38/hypnosis-for-positive-thinking.htm
- [7]: http://www.philosophyinlife.info/1/philosophy-of-manifestation.htm
+ [1]: http://www.philosophyinlife.info/honesty-leads-to-happiness/
+ [2]: http://www.philosophyinlife.info/law-attraction/
+ [3]: http://www.philosophyinlife.info/philosophy-positive-thinking/
+ [4]: http://www.philosophyinlife.info/adopting-postive-approach-life-improve-positive-thoughts/
+ [5]: http://www.philosophyinlife.info/philosophy-of-honesty/
+ [6]: http://www.philosophyinlife.info/hypnosis-for-positive-thinking/
+ [7]: http://www.philosophyinlife.info/philosophy-of-manifestation/
