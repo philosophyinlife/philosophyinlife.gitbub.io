@@ -27,13 +27,34 @@ layout: default
 
 				{{ content }}
 
-                <hr>
-
+                 
+<ul class="pager">
+  <li id="yui_3_16_0_1_1430677021734_15026"></li>
+</ul>
+              <div id="yiv9716533578instructions">
+                <hr />
                 <ul class="pager">
-                    {% if page.previous.url %}
-                    <li class="previous">
+                  <pre>{% if page.comments %}
+<span>&lt;div id=&quot;disqus_thread&quot;&gt;&lt;/div&gt;<br />&lt;script type=&quot;text/javascript&quot;&gt;<br />
+                  /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */<br />
+                var disqus_shortname = '<strong>philosophyinlife</strong>'; // required: replace example with your forum shortname</span></pre>
+                </ul>
+                <p id="yui_3_16_0_1_1430677021734_14988"><span id="yui_3_16_0_1_1430677021734_14989"> /* * * DON'T EDIT BELOW THIS LINE * * */<br />
+                    (function() {<br />
+                    var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;<br />
+                    dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';<br />
+                    (document.getElementsByTagName('head')[0] ||   document.getElementsByTagName('body')[0]).appendChild(dsq);<br />
+                    })();<br />
+                    &lt;/script&gt;<br />
+                    &lt;noscript&gt;Please enable JavaScript to view the &lt;a   href=&quot;http://disqus.com/?ref_noscript&quot;&gt;comments powered by   Disqus.&lt;/a&gt;&lt;/noscript&gt;<br />
+                    &lt;a href=&quot;http://disqus.com&quot; class=&quot;dsq-brlink&quot;&gt;comments powered   by &lt;span class=&quot;logo-disqus&quot;&gt;Disqus&lt;/span&gt;&lt;/a&gt;</span></p>
+                  <p>{% endif %}</p>
+                  <p>{% if page.previous.url %} </p>
+                </div>
+              <ul class="pager">
+<li class="previous">
                         <a href="{{ page.previous.url | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="{{page.previous.title}}">&larr; Previous Post</a>
-                    </li>
+                </li>
                     {% endif %}
                     {% if page.next.url %}
                     <li class="next">
