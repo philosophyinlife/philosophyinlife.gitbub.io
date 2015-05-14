@@ -62,7 +62,7 @@ tags:
 </div>
 
 <div style="text-align: justify;">
-  <span style="font-size: 130%;">A few of us know ways to escape this </span><span style="font-size: 130%; font-style: italic;">vicious sow & reap cycle</span><span style="font-size: 130%;"> and of course are able to overcome from this <a href="http://www.philosophyinlife.info/6/a-game-of-pleasure-or-pain.htm" target="_self">vicious cycle of pleasure and pain</a>.</span><span style="font-size: 130%;"> </span><span style="font-size: 130%;">Such understanding does make life more peaceful and enjoyable.</span>
+  <span style="font-size: 130%;">A few of us know ways to escape this </span><span style="font-size: 130%; font-style: italic;">vicious sow & reap cycle</span><span style="font-size: 130%;"> and of course are able to overcome from this <a href="http://www.philosophyinlife.info/a-game-of-pleasure-or-pain/" target="_self">vicious cycle of pleasure and pain</a>.</span><span style="font-size: 130%;"> </span><span style="font-size: 130%;">Such understanding does make life more peaceful and enjoyable.</span>
 </div>
 
 <div style="text-align: justify;">
@@ -76,5 +76,5 @@ tags:
 </div>
 
 <div style="text-align: justify;">
-  <span style="font-size: 130%;">The post <a title="Infinite Loop of Life" href="http://www.philosophyinlife.info/5/infinite-loop-of-life.htm"><em>Infinite Loop of Life</em></a> is a short post and does not discuss anything in length here.<br /> </span>
+  <span style="font-size: 130%;">The post <a title="Infinite Loop of Life" href="http://www.philosophyinlife.info/infinite-loop-of-life/"><em>Infinite Loop of Life</em></a> is a short post and does not discuss anything in length here.<br /> </span>
 </div>
