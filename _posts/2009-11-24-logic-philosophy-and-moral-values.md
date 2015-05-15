@@ -66,7 +66,7 @@ tags:
 </div>
 
 <div>
-  <span style="font-size: large;">The <a href="http://www.philosophyinlife.info/24/can-philosophy-exist-without-logic.htm" target="_self">logic, philosophy and moral values</a> are actively playing there role in our lives, awareness of there existence and effectiveness will only make many things in our life easy to understand. It will reduce the web of complexity, in which we are trapped to some extent. Unawareness and ignorance of something which exists and is live can lead to unintentional accidents.</span>
+  <span style="font-size: large;">The <a href="http://www.philosophyinlife.info/can-philosophy-exist-without-logic/" target="_self">logic, philosophy and moral values</a> are actively playing there role in our lives, awareness of there existence and effectiveness will only make many things in our life easy to understand. It will reduce the web of complexity, in which we are trapped to some extent. Unawareness and ignorance of something which exists and is live can lead to unintentional accidents.</span>
 </div>
 
 <div>
@@ -74,7 +74,7 @@ tags:
 </div>
 
 <div>
-  <span style="font-size: large;"><strong>Morals and moral values are basic building blocks of everything live and surviving on this planet</strong>. It is a foundation of everlasting health, wealth and <a href="http://www.philosophyinlife.info/35/happiness-is-a-decision.htm" target="_self">happiness in our life</a> Logic on other hand is a tool which helps us to implement things in our life, if there is no logic in something then we find that thing difficult to implement. </span>
+  <span style="font-size: large;"><strong>Morals and moral values are basic building blocks of everything live and surviving on this planet</strong>. It is a foundation of everlasting health, wealth and <a href="http://www.philosophyinlife.info/happiness-is-a-decision/" target="_self">happiness in our life</a> Logic on other hand is a tool which helps us to implement things in our life, if there is no logic in something then we find that thing difficult to implement. </span>
 </div>
 
 <div>
@@ -104,4 +104,4 @@ tags:
 <p style="text-align: center;">
 </p>
 
-That&#8217;s all for today in <a href="http://www.philosophyinlife.info/37/logic-philosophy-and-moral-values.htm" target="_self">logic, philosophy and moral values</a>, hope you enjoyed reading.
+That&#8217;s all for today in <a href="http://www.philosophyinlife.info/logic-philosophy-and-moral-values/" target="_self">logic, philosophy and moral values</a>, hope you enjoyed reading.

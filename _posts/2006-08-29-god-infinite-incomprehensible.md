@@ -84,5 +84,5 @@ It means that One that is attribute-less and formless, One with attributes and f
 This post &#8220;[*God is infinite, incomprehensible*][1]&#8221; is from******* &#8220;Gita Prabodhani&#8221; ***in Hindi by******* Swami Ramsukhdasji ***read more in ***[Sadhaka][2]  
 ***
 
- [1]: http://www.philosophyinlife.info/397/god-infinite-incomprehensible.htm "God is Infinite, Incomprehensible"
- [2]: http://www.philosophyinlife.info/388/sadhaks-hinduism-spirituality.htm "Sadhaka’s of Hinduism and Spirituality"
+ [1]: http://www.philosophyinlife.info/god-infinite-incomprehensible/ "God is Infinite, Incomprehensible"
+ [2]: http://www.philosophyinlife.info/sadhaks-hinduism-spirituality/ "Sadhaka’s of Hinduism and Spirituality"

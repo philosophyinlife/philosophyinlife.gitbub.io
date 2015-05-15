@@ -58,7 +58,7 @@ tags:
   </h3>
   
   <p>
-    <span style="font-size: 130%;"><br /> Let everyone enjoy this life, whether its plants or animals, flora or fauna, insects and you too will enjoy this life. Nature knows how to maintain this balance of survival and maintain <a href="http://www.philosophyinlife.info/29/everybody-has-a-right-to-survive.htm" target="_self">the right of survival for everyone</a>. In other words &#8216;<em>Live and Let others Live</em>&#8216;.</span>
+    <span style="font-size: 130%;"><br /> Let everyone enjoy this life, whether its plants or animals, flora or fauna, insects and you too will enjoy this life. Nature knows how to maintain this balance of survival and maintain <a href="http://www.philosophyinlife.info/everybody-has-a-right-to-survive/" target="_self">the right of survival for everyone</a>. In other words &#8216;<em>Live and Let others Live</em>&#8216;.</span>
   </p>
   
   <p>
@@ -74,11 +74,11 @@ tags:
   </p>
   
   <p>
-    <span style="font-size: 130%;">All these thinks play some role, help people with a positive mindset, who <a href="http://www.philosophyinlife.info/38/hypnosis-for-positive-thinking.htm" target="_self">adopt positive approach</a> in life. These people don&#8217;t expect anything, they only take the right decision at the right time which we call a positive step, a positive approach.</span>
+    <span style="font-size: 130%;">All these thinks play some role, help people with a positive mindset, who <a href="http://www.philosophyinlife.info/hypnosis-for-positive-thinking/" target="_self">adopt positive approach</a> in life. These people don&#8217;t expect anything, they only take the right decision at the right time which we call a positive step, a positive approach.</span>
   </p>
   
   <p>
-    <span style="font-size: 130%;">The diversified, self-contradicting nature of life, opens doors for survival of everyone, it gives a chance for survival of everything (even rumors, predictions, principles, assumptions, theories etc., etc.).  Some people start worrying as they cannot bear uncertainty while other <a href="http://www.philosophyinlife.info/43/happiness-is-a-social-virtue.htm" target="_self">enjoy life and stay happy</a> as they know and understand that circumstance do not have a direct role, they are only temporary situations which often changes frequently.</span>
+    <span style="font-size: 130%;">The diversified, self-contradicting nature of life, opens doors for survival of everyone, it gives a chance for survival of everything (even rumors, predictions, principles, assumptions, theories etc., etc.).  Some people start worrying as they cannot bear uncertainty while other <a href="http://www.philosophyinlife.info/happiness-is-a-social-virtue/" target="_self">enjoy life and stay happy</a> as they know and understand that circumstance do not have a direct role, they are only temporary situations which often changes frequently.</span>
   </p>
   
   <p>

@@ -36,7 +36,7 @@ tags:
 </p>
 
 <p style="text-align: justify;">
-  <span style="font-size: 130%;">The satisfaction I&#8217;m referring above as an open <a href="http://www.philosophyinlife.info/42/honesty-leads-to-happiness.htm" target="_self">secret to happiness in life</a> is the one which one drives when he gets completely immersed in his actions. He gives his 100% to the job he is doing and is physically and mentally involved in its successful completion. This is the only thing that matters most to him. Now, after the job is over he has nothing to worry on his part as he did what he ought to do and was in his control and now is satisfied with his role. Result may or may not be favorable to him but it doesn&#8217;t pinches him so hard. Why?</span>
+  <span style="font-size: 130%;">The satisfaction I&#8217;m referring above as an open <a href="http://www.philosophyinlife.info/honesty-leads-to-happiness/" target="_self">secret to happiness in life</a> is the one which one drives when he gets completely immersed in his actions. He gives his 100% to the job he is doing and is physically and mentally involved in its successful completion. This is the only thing that matters most to him. Now, after the job is over he has nothing to worry on his part as he did what he ought to do and was in his control and now is satisfied with his role. Result may or may not be favorable to him but it doesn&#8217;t pinches him so hard. Why?</span>
 </p>
 
 <p style="text-align: justify;">
@@ -44,7 +44,7 @@ tags:
 </p>
 
 <div style="text-align: justify;">
-  <span style="font-size: 130%;">We can get a clear picture of persons who are <a href="http://www.philosophyinlife.info/38/hypnosis-for-positive-thinking.htm" target="_self">working with a positive motive</a> and others who are working for positive results by simply looking at the way they work and there expressions. One clear sign of this can be the way a person perceives obstacles and problems encountered during the processing of a job. Those who are interested and motivated don&#8217;t take these problems or obstacles as a major issue but a normal route, whereas those who have some reason to show interest in the task not only take these as a bottleneck but view any minute problem as a major issue and a routine obstacle as a major obstacle and if somehow he finishes the task well he expects rewards vis a vis obstacles and hurdles he managed to overcome.<br /> </span>
+  <span style="font-size: 130%;">We can get a clear picture of persons who are <a href="http://www.philosophyinlife.info/hypnosis-for-positive-thinking/" target="_self">working with a positive motive</a> and others who are working for positive results by simply looking at the way they work and there expressions. One clear sign of this can be the way a person perceives obstacles and problems encountered during the processing of a job. Those who are interested and motivated don&#8217;t take these problems or obstacles as a major issue but a normal route, whereas those who have some reason to show interest in the task not only take these as a bottleneck but view any minute problem as a major issue and a routine obstacle as a major obstacle and if somehow he finishes the task well he expects rewards vis a vis obstacles and hurdles he managed to overcome.<br /> </span>
 </div>
 
 <p style="text-align: justify;">
@@ -60,5 +60,5 @@ tags:
 > </p>
 
 <div style="text-align: justify;">
-  <span style="font-size: 130%;">If we think over these basic things in life for a moment I don&#8217;t thing <a title="Satisfaction- An Open Secret to Happiness in Life" href="http://www.philosophyinlife.info/9/satisfaction-an-open-secret-to-happiness-in-life.htm"><strong>Satisfaction as a secret to Happiness in Life</strong></a> won&#8217;t in fact prove to be one of the fact to everlasting happiness in life.<br /> </span>
+  <span style="font-size: 130%;">If we think over these basic things in life for a moment I don&#8217;t thing <a title="Satisfaction- An Open Secret to Happiness in Life" href="http://www.philosophyinlife.info/satisfaction-an-open-secret-to-happiness-in-life/"><strong>Satisfaction as a secret to Happiness in Life</strong></a> won&#8217;t in fact prove to be one of the fact to everlasting happiness in life.<br /> </span>
 </div>

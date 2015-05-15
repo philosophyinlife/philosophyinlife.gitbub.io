@@ -36,7 +36,7 @@ tags:
 
 <div style="text-align: justify;">
   <p>
-    <span style="font-size: 130%;">I hope you&#8217;ve already read the last post &#8216;<a href="http://www.philosophyinlife.info/27/philosophy-of-love-vs-lust.htm" target="_self"><span style="font-style: italic;">Philosophy of Love Vs Philosophy of Lust</span></a>&#8216;. I know that it is easy to read but it is not always easy to study. Study requires attentive reading which further need calmness.</span>
+    <span style="font-size: 130%;">I hope you&#8217;ve already read the last post &#8216;<a href="http://www.philosophyinlife.info/philosophy-of-love-vs-lust/" target="_self"><span style="font-style: italic;">Philosophy of Love Vs Philosophy of Lust</span></a>&#8216;. I know that it is easy to read but it is not always easy to study. Study requires attentive reading which further need calmness.</span>
   </p>
   
   <blockquote>

@@ -27,7 +27,7 @@ tags:
 ---
 <div style="text-align: justify;">
   <p>
-    <span style="font-size: 130%;"><span style="font-size: 130%;"><span style="font-weight: bold;">I don&#8217;t think that there can be a philosophy without logic</span>. Philosophy is an art of reaching a conclusion based on suggestions from a number of quarters i.e different factors of life. Logic makes it a sound decision which is hardly counter productive, logic makes it accepted among different thinkers.</span></span><span style="font-style: italic;">If there is no logic there is no philosophy?</span> This is what I personally hold about <a href="http://www.philosophyinlife.info/37/logic-philosophy-and-moral-values.htm">logic and philosophy</a>.
+    <span style="font-size: 130%;"><span style="font-size: 130%;"><span style="font-weight: bold;">I don&#8217;t think that there can be a philosophy without logic</span>. Philosophy is an art of reaching a conclusion based on suggestions from a number of quarters i.e different factors of life. Logic makes it a sound decision which is hardly counter productive, logic makes it accepted among different thinkers.</span></span><span style="font-style: italic;">If there is no logic there is no philosophy?</span> This is what I personally hold about <a href="http://www.philosophyinlife.info/logic-philosophy-and-moral-values/">logic and philosophy</a>.
   </p>
   
   <p>

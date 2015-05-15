@@ -86,10 +86,10 @@ tags:
 
 <div style="text-align: justify;">
   <p>
-    <span style="font-size: large;">Good will cease to be good and best will convey a new meaning, a pitch to sell something, this is <a href="http://www.philosophyinlife.info/39/internet-and-philosophy.htm" target="_self">internet and its philosophy</a> which is more or less controlled by its e-commerce nature. Just like the word sex has been replaced (and conveys) porn and adult on internet, soon more words will also take a new shape a new form to convey a new meaning for <a href="http://www.philosophyinlife.info/40/online-society-on-internet.htm" target="_self">society on internet</a>.</span>
+    <span style="font-size: large;">Good will cease to be good and best will convey a new meaning, a pitch to sell something, this is <a href="http://www.philosophyinlife.info/internet-and-philosophy/" target="_self">internet and its philosophy</a> which is more or less controlled by its e-commerce nature. Just like the word sex has been replaced (and conveys) porn and adult on internet, soon more words will also take a new shape a new form to convey a new meaning for <a href="http://www.philosophyinlife.info/online-society-on-internet/" target="_self">society on internet</a>.</span>
   </p>
   
   <p>
-    <span style="font-size: large;">Read more about Honesty in <a href="http://www.philosophyinlife.info/34/philosophy-of-honesty.htm" target="_self">philosophy of honesty</a> in this blog. </span>
+    <span style="font-size: large;">Read more about Honesty in <a href="http://www.philosophyinlife.info/philosophy-of-honesty/" target="_self">philosophy of honesty</a> in this blog. </span>
   </p>
 </div>

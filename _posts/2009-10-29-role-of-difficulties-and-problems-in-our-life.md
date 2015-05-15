@@ -168,11 +168,11 @@ tags:
 </div>
 
 <div style="text-align: justify;">
-  <span style="font-size: large;"><a href="http://www.philosophyinlife.info/35/happiness-is-a-decision.htm" target="_self">Happiness is A Decision</a></span>
+  <span style="font-size: large;"><a href="http://www.philosophyinlife.info/happiness-is-a-decision/" target="_self">Happiness is A Decision</a></span>
 </div>
 
 <div style="text-align: justify;">
-  <span style="font-size: large;"><a href="http://www.philosophyinlife.info/29/everybody-has-a-right-to-survive.htm" target="_self">Everybody Has A Right to Survive</a></span>
+  <span style="font-size: large;"><a href="http://www.philosophyinlife.info/everybody-has-a-right-to-survive/" target="_self">Everybody Has A Right to Survive</a></span>
 </div>
 
 <div style="text-align: justify;">
@@ -194,7 +194,7 @@ tags:
 </div>
 
 <div style="text-align: left;">
-  <span style="font-size: large;">We cannot <a href="http://www.philosophyinlife.info/255/philosophy-positive-thinking.htm">learn to think in positive way</a> if we have never been in negative situations. Difficulties and problems are a source from where we can easily drive positive thoughts, those who excel in life have seen all the difficulties and problems in there life. </span>
+  <span style="font-size: large;">We cannot <a href="http://www.philosophyinlife.info/philosophy-positive-thinking/">learn to think in positive way</a> if we have never been in negative situations. Difficulties and problems are a source from where we can easily drive positive thoughts, those who excel in life have seen all the difficulties and problems in there life. </span>
 </div>
 
 <div style="text-align: left;">

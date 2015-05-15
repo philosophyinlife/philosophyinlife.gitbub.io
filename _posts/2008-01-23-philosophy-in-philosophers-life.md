@@ -47,6 +47,6 @@ tags:
   </p>
   
   <p>
-    Todays philosophy in <a href="http://www.philosophyinlife.info/it/25/life-is-simple-and-easy-enjoy-life.htm" target="_self">life is good</a> for the society but for philosophers there is a change in the attitude of society as democracy and human rights are now an active issue and people are aware of there rights and intelligence.
+    Todays philosophy in <a href="http://www.philosophyinlife.info/life-is-simple-and-easy-enjoy-life/" target="_self">life is good</a> for the society but for philosophers there is a change in the attitude of society as democracy and human rights are now an active issue and people are aware of there rights and intelligence.
   </p>
 </div>

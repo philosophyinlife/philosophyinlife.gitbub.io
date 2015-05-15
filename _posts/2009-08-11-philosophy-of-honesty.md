@@ -79,7 +79,7 @@ tags:
   </p>
   
   <p>
-    <span style="font-size: 130%;">If we want peace then we must take this seriously, if we want health then we must think about effects of this aspect of life on our body and mind, we <a href="http://www.philosophyinlife.info/31/where-can-we-find-happiness.htm" target="_self">want happiness in life</a> then we must try this rule of nature.</span>
+    <span style="font-size: 130%;">If we want peace then we must take this seriously, if we want health then we must think about effects of this aspect of life on our body and mind, we <a href="http://www.philosophyinlife.info/where-can-we-find-happiness/" target="_self">want happiness in life</a> then we must try this rule of nature.</span>
   </p>
   
   <div style="font-weight: bold; text-align: center;">
@@ -125,10 +125,10 @@ tags:
   </div>
   
   <div style="text-align: justify;">
-    <span style="font-size: 130%;">May be most of us think ourselves to be honest, may be it is true from our own perspective but is it really true. There is one way to know whether its true or not, either we can delve deep in <a href="http://www.philosophyinlife.info/34/philosophy-of-honesty.htm" target="_self">philosophy of honesty </a>or we can take a simple test.</span>
+    <span style="font-size: 130%;">May be most of us think ourselves to be honest, may be it is true from our own perspective but is it really true. There is one way to know whether its true or not, either we can delve deep in <a href="http://www.philosophyinlife.info/philosophy-of-honesty/" target="_self">philosophy of honesty </a>or we can take a simple test.</span>
   </div>
   
   <p>
-    <span style="font-size: 130%;"><br /> </span><br /> <span style="font-size: 130%;"><a title="Honesty leads to Happiness" href="http://www.philosophyinlife.info/42/honesty-leads-to-happiness.htm">Honesty is a lifestyle</a> of a winner, someone who is not afraid of truth and its consequences. He/she is not honest because its the best policy or because he is aware of its benefits but because its honesty, a single path which is the right path.</span><br /> <span style="font-size: 130%;"><br /> </span><br /> <span style="font-size: 130%;"><em>A person who is really honest always enjoys happiness, peace of mind, tranquility as he has nothing to process in his/her mind</em>, there is nothing that can get uncovered. Whatever is there is there because it has to be there. He has neither added nor subtracted anything anywhere. This is a simple test (as per my knowledge/information/experience) which I feel can be used to reposition our own <a title="Honesty Is A Keyword" href="http://www.philosophyinlife.info/41/honesty-is-a-keyword.htm">strategy on honesty</a>.<br /> </span>
+    <span style="font-size: 130%;"><br /> </span><br /> <span style="font-size: 130%;"><a title="Honesty leads to Happiness" href="http://www.philosophyinlife.info/honesty-leads-to-happiness/">Honesty is a lifestyle</a> of a winner, someone who is not afraid of truth and its consequences. He/she is not honest because its the best policy or because he is aware of its benefits but because its honesty, a single path which is the right path.</span><br /> <span style="font-size: 130%;"><br /> </span><br /> <span style="font-size: 130%;"><em>A person who is really honest always enjoys happiness, peace of mind, tranquility as he has nothing to process in his/her mind</em>, there is nothing that can get uncovered. Whatever is there is there because it has to be there. He has neither added nor subtracted anything anywhere. This is a simple test (as per my knowledge/information/experience) which I feel can be used to reposition our own <a title="Honesty Is A Keyword" href="http://www.philosophyinlife.info/41/honesty-is-a-keyword.htm">strategy on honesty</a>.<br /> </span>
   </p>
 </div>

@@ -79,6 +79,6 @@ To read all previous messages, please visit:
 
 P.S: Please pass on this message to whomever you think would benefit from the same.
 
- [1]: http://www.philosophyinlife.info/346/philosophy-meditation-gita.htm "Philosophy of Meditation in Gita"
+ [1]: http://www.philosophyinlife.info/philosophy-meditation-gita/"Philosophy of Meditation in Gita"
  [2]: http://www.philosophyinlife.info/category/spirituality "Philosophy of Meditation"
- [3]: http://www.philosophyinlife.info/388/sadhaks-hinduism-spirituality.htm "Sadhaka’s of Hinduism and Spirituality"
+ [3]: http://www.philosophyinlife.info/sadhaks-hinduism-spirituality/"Sadhaka’s of Hinduism and Spirituality"

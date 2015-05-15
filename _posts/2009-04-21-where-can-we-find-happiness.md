@@ -43,7 +43,7 @@ tags:
 
 <div style="text-align: justify;">
   <p>
-    <span style="font-size: 130%;"><br /> There are so many <a href="http://www.philosophyinlife.info/9/satisfaction-an-open-secret-to-happiness-in-life.htm" target="_self">ways to find happiness</a>. A child can find happiness in a dress, a terrorist can find happiness in explosives and explosions. So, it is you who decides where can you find similarity between happiness and an activity (or happiness without any activity). I will like to list some common places and instances of happiness in our day to day life. A happiness that frequently strikes our vision, the most common <a href="http://www.philosophyinlife.info/30/philosophy-of-happiness-2.htm" target="_self">philosophy of happiness</a>.</span>
+    <span style="font-size: 130%;"><br /> There are so many <a href="http://www.philosophyinlife.info/satisfaction-an-open-secret-to-happiness-in-life/" target="_self">ways to find happiness</a>. A child can find happiness in a dress, a terrorist can find happiness in explosives and explosions. So, it is you who decides where can you find similarity between happiness and an activity (or happiness without any activity). I will like to list some common places and instances of happiness in our day to day life. A happiness that frequently strikes our vision, the most common <a href="http://www.philosophyinlife.info/30/philosophy-of-happiness-2.htm" target="_self">philosophy of happiness</a>.</span>
   </p>
   
   <div style="text-align: center;">

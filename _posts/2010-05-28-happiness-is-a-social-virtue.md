@@ -140,6 +140,6 @@ tags:
   </p>
   
   <p>
-    <span style="font-size: large;">This is all for today in <a href="http://www.philosophyinlife.info/30/philosophy-of-happiness-2.htm" target="_self">Happiness</a> is a social virtue, I hope this post was able to communicate some meaning which are often left with me and only words get across. </span>
+    <span style="font-size: large;">This is all for today in <a href="http://www.philosophyinlife.info/philosophy-of-happiness-2/" target="_self">Happiness</a> is a social virtue, I hope this post was able to communicate some meaning which are often left with me and only words get across. </span>
   </p>
 </div>

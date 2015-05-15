@@ -38,7 +38,7 @@ tags:
 </h2>
 
 <p style="text-align: justify;">
-  <span style="font-size: 130%;">Yes, we are. I don&#8217;t know about you but I know about myself. Like each one of us, I too have seen many faces of life, I too have tried many tricks to solve <a href="http://www.philosophyinlife.info/13/mystery-of-life-nature.htm">puzzle of life</a>, and at some point I realized that I was <span style="font-weight: bold;">trying to solve the puzzle with a wrong mindset</span> which was in turn puzzling me.</span>
+  <span style="font-size: 130%;">Yes, we are. I don&#8217;t know about you but I know about myself. Like each one of us, I too have seen many faces of life, I too have tried many tricks to solve <a href="http://www.philosophyinlife.info/mystery-of-life-nature/">puzzle of life</a>, and at some point I realized that I was <span style="font-weight: bold;">trying to solve the puzzle with a wrong mindset</span> which was in turn puzzling me.</span>
 </p>
 
 <div style="text-align: justify;">
@@ -96,7 +96,7 @@ tags:
 </p>
 
 <div style="text-align: justify;">
-  <span style="font-size: 130%;">We can understand this with life in city ( a developed society) and village (undeveloped or less developed then cities). We can see there lifestyle, requirement of <a href="http://www.philosophyinlife.info/20/modern-philosophy-of-work-and-money.htm">money and work</a>. We can also compare there satisfaction, happiness and quality of life. I have a opinion that when we move from places which are undeveloped or under developed to places which are highly developed or modernized there is always an increased urgency for money, lack of time, more dissatisfaction and less happiness. </span>
+  <span style="font-size: 130%;">We can understand this with life in city ( a developed society) and village (undeveloped or less developed then cities). We can see there lifestyle, requirement of <a href="http://www.philosophyinlife.info/modern-philosophy-of-work-and-money/">money and work</a>. We can also compare there satisfaction, happiness and quality of life. I have a opinion that when we move from places which are undeveloped or under developed to places which are highly developed or modernized there is always an increased urgency for money, lack of time, more dissatisfaction and less happiness. </span>
 </div>
 
 <div style="text-align: justify;">

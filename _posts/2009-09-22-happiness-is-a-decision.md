@@ -67,7 +67,7 @@ tags:
     </div>
     
     <div style="text-align: justify;">
-      <span style="font-size: large;">Anyway if you have decided to be happy then there are so many resources both online as well as offline which can help you <a href="http://www.philosophyinlife.info/31/where-can-we-find-happiness.htm" target="_self">find true happiness</a> in your life. I feel the decision to enjoy happiness in life is a part of positive approach to life also called <a href="http://www.philosophyinlife.info/26/every-problem-in-life-has-some-solution.htm" target="_self">positive thinking</a>. A strong decision is always supported by everyone in our surrounding whether animate or inanimate because a decision is a decision and is therefore only possible destination and things is therefore acceptable to us.</span>
+      <span style="font-size: large;">Anyway if you have decided to be happy then there are so many resources both online as well as offline which can help you <a href="http://www.philosophyinlife.info/where-can-we-find-happiness/" target="_self">find true happiness</a> in your life. I feel the decision to enjoy happiness in life is a part of positive approach to life also called <a href="http://www.philosophyinlife.info/26/every-problem-in-life-has-some-solution.htm" target="_self">positive thinking</a>. A strong decision is always supported by everyone in our surrounding whether animate or inanimate because a decision is a decision and is therefore only possible destination and things is therefore acceptable to us.</span>
     </div>
     
     <div style="text-align: justify;">
@@ -83,7 +83,7 @@ tags:
     </div>
     
     <div style="text-align: justify;">
-      <span style="font-size: large;">You can also read previous posts on the above subject in <a href="http://www.philosophyinlife.info/33/role-of-happiness-in-a-meaningful-life.htm" target="_self">Role of Happiness in our life</a>.<br /> </span>
+      <span style="font-size: large;">You can also read previous posts on the above subject in <a href="http://www.philosophyinlife.info/role-of-happiness-in-a-meaningful-life/" target="_self">Role of Happiness in our life</a>.<br /> </span>
     </div>
     
     <div style="text-align: justify;">

@@ -54,6 +54,6 @@ tags:
   </p>
   
   <p>
-    <span style="font-size: 130%;">All this boils down to &#8216;<a href="http://www.philosophyinlife.info/25/life-is-simple-and-easy-enjoy-life.htm">Life is simple, Life is easy, Enjoy Life</a>&#8216;, the best philosophy of life that one can have.<br /> </span>
+    <span style="font-size: 130%;">All this boils down to &#8216;<a href="http://www.philosophyinlife.info/life-is-simple-and-easy-enjoy-life/">Life is simple, Life is easy, Enjoy Life</a>&#8216;, the best philosophy of life that one can have.<br /> </span>
   </p>
 </div>

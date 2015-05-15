@@ -39,7 +39,7 @@ tags:
 </div>
 
 <div style="text-align: justify;">
-  <span style="font-size: large;">Internet is a convenient medium to fulfill our desires, its a virtual reality with connections to real world. We can <a href="http://www.philosophyinlife.info/43/happiness-is-a-social-virtue.htm" target="_self">be happy</a> or sad with what we see, read or hear right now in front of us but the moment any of the medium in between fails we are immediately thrown back to real world, real circumstances. There are so many intermediaries which are not controlled by anyone. </span>
+  <span style="font-size: large;">Internet is a convenient medium to fulfill our desires, its a virtual reality with connections to real world. We can <a href="http://www.philosophyinlife.info/happiness-is-a-social-virtue/" target="_self">be happy</a> or sad with what we see, read or hear right now in front of us but the moment any of the medium in between fails we are immediately thrown back to real world, real circumstances. There are so many intermediaries which are not controlled by anyone. </span>
 </div>
 
 <div style="text-align: justify;">
@@ -51,7 +51,7 @@ tags:
 </div>
 
 <div style="text-align: left;">
-  <span style="font-size: large;">There is no <a href="http://www.philosophyinlife.info/39/internet-and-philosophy.htm" target="_self">philosophy of internet</a> itself as its just a medium, a connection between two or more, a view, an instance. We can use internet to make advances in our personal, social and professional life and if we are not careful we can loose our existing personal connections, loose contact with society, deform our professional life because so much exists here that anyone can get lost in this labyrinth. </span>
+  <span style="font-size: large;">There is no <a href="http://www.philosophyinlife.info/internet-and-philosophy/" target="_self">philosophy of internet</a> itself as its just a medium, a connection between two or more, a view, an instance. We can use internet to make advances in our personal, social and professional life and if we are not careful we can loose our existing personal connections, loose contact with society, deform our professional life because so much exists here that anyone can get lost in this labyrinth. </span>
 </div>
 
 <div style="text-align: justify;">

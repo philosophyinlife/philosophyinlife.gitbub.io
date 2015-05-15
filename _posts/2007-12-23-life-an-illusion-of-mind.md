@@ -45,7 +45,7 @@ tags:
   </h3>
   
   <p>
-    <span style="font-size: 130%;"><a title="Life An Illusion of Mind" href="http://www.philosophyinlife.info/10/life-an-illusion-of-mind.htm">Life is an illusion</a>, there is no unanimous conclusion on life, our views, thoughts, experiences, education, circumstances all effect our definition of life. It can be a place to enjoy a happy life or place where you have to struggle every day.</span>
+    <span style="font-size: 130%;"><a title="Life An Illusion of Mind" href="http://www.philosophyinlife.info/life-an-illusion-of-mind/">Life is an illusion</a>, there is no unanimous conclusion on life, our views, thoughts, experiences, education, circumstances all effect our definition of life. It can be a place to enjoy a happy life or place where you have to struggle every day.</span>
   </p>
   
   <p>
@@ -58,7 +58,7 @@ tags:
   
   <blockquote>
     <p>
-      Spirituality, faith and <a href="http://www.philosophyinlife.info/255/philosophy-positive-thinking.htm" target="_self">positive thinking</a> are ways to mend problems associated with mind. Once our mind learns these techniques its state of illusion is eliminated immediately. This world becomes a beautiful place to be around. Life seems good and happier than ever before, with all the games of life leading to a positive experience. Eyes too start seeing a new ray of light in every object it comes across.
+      Spirituality, faith and <a href="http://www.philosophyinlife.info/philosophy-positive-thinking/" target="_self">positive thinking</a> are ways to mend problems associated with mind. Once our mind learns these techniques its state of illusion is eliminated immediately. This world becomes a beautiful place to be around. Life seems good and happier than ever before, with all the games of life leading to a positive experience. Eyes too start seeing a new ray of light in every object it comes across.
     </p>
   </blockquote>
   

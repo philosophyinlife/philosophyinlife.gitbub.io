@@ -48,4 +48,4 @@ No, Arjuna, as the blazing fire reduces the wood to ashes, so does the fire of k
 
 The above post is from &#8220;*Gita Madhurya*&#8221; in Hindi pg 49 and English pg 56 by **Swami Ramsukhdasji**, which was published in [Sadhaka][1], a Yahoo Group for spiritual progress.
 
- [1]: http://www.philosophyinlife.info/388/sadhaks-hinduism-spirituality.htm "Sadhaka’s of Hinduism and Spirituality"
+ [1]: http://www.philosophyinlife.info/sadhaks-hinduism-spirituality/ "Sadhaka’s of Hinduism and Spirituality"

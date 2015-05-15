@@ -61,5 +61,5 @@ Ram Ram
 
 [*Union is Transient, Separation is Constant*][1] was published in Yahoo [Sadhaka ][2]Group.
 
- [1]: http://www.philosophyinlife.info/447/union-transient-separation-constant.htm
- [2]: http://www.philosophyinlife.info/388/sadhaks-hinduism-spirituality.htm "Sadhaka’s of Hinduism and Spirituality"
+ [1]: http://www.philosophyinlife.info/union-transient-separation-constant/
+ [2]: http://www.philosophyinlife.info/sadhaks-hinduism-spirituality/ "Sadhaka’s of Hinduism and Spirituality"

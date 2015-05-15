@@ -104,6 +104,6 @@ tags:
   </p>
   
   <p>
-    <span style="font-size: 130%;">If you wish to join this group then write to sadhaka-subscribe@yahoogroups.com for more information on this <a href="http://www.philosophyinlife.info/388/sadhaks-hinduism-spirituality.htm">Sadhak group</a> visit http://groups.yahoo.com/group/sadhaka/</span>
+    <span style="font-size: 130%;">If you wish to join this group then write to sadhaka-subscribe@yahoogroups.com for more information on this <a href="http://www.philosophyinlife.info/sadhaks-hinduism-spirituality/">Sadhak group</a> visit http://groups.yahoo.com/group/sadhaka/</span>
   </p>
 </div>

@@ -89,15 +89,15 @@ tags:
   </h3>
   
   <p>
-    To every problem there exists a solution. May be we are ignoring the solution. There are times when we know the solution but we do not want to consider it as a solution.  We leave it in search of a better, more amicable way and thus the problem remains unresolved . This is again a common human perception to maintain problem for which solutions exists, else if we look at things with a positive attitude we&#8217;ll find that <a title="Every Problem in Life Has Some Solution" href="http://www.philosophyinlife.info/26/every-problem-in-life-has-some-solution.htm">every problem in life has some solution</a>, which can help us to control it even if we are not willing to eliminate it.
+    To every problem there exists a solution. May be we are ignoring the solution. There are times when we know the solution but we do not want to consider it as a solution.  We leave it in search of a better, more amicable way and thus the problem remains unresolved . This is again a common human perception to maintain problem for which solutions exists, else if we look at things with a positive attitude we&#8217;ll find that <a title="Every Problem in Life Has Some Solution" href="http://www.philosophyinlife.info/every-problem-in-life-has-some-solution/">every problem in life has some solution</a>, which can help us to control it even if we are not willing to eliminate it.
   </p>
   
   <p>
-    <a href="http://www.philosophyinlife.info/36/role-of-difficulties-and-problems-in-our-life.htm" target="_self">Difficulties and problems of life</a> not only shape our life, improve it but there is also a hidden meaning that they carry.
+    <a href="http://www.philosophyinlife.info/role-of-difficulties-and-problems-in-our-life/" target="_self">Difficulties and problems of life</a> not only shape our life, improve it but there is also a hidden meaning that they carry.
   </p>
   
   <p>
-    Now, do you still have a problem? Read more in a relevant post <a href="http://www.philosophyinlife.info/19/imagination-leads-to-realization.htm" target="_self">imaginations lead to realization</a>.
+    Now, do you still have a problem? Read more in a relevant post <a href="http://www.philosophyinlife.info/imagination-leads-to-realization/" target="_self">imaginations lead to realization</a>.
   </p>
 </div>
 

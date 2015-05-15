@@ -36,7 +36,7 @@ tags:
 </div>
 
 <div style="text-align: justify;">
-  <span style="font-size: large;">Positive thinking can be improved with hypnosis or in other words we can say we learn hypnosis with <a href="http://www.philosophyinlife.info/19/imagination-leads-to-realization.htm" target="_self">positive thinking</a>. Hypnosis is an art to develop power of our thoughts to such an extent that they start influencing our life and its surroundings directly.</span>
+  <span style="font-size: large;">Positive thinking can be improved with hypnosis or in other words we can say we learn hypnosis with <a href="http://www.philosophyinlife.info/imagination-leads-to-realization/" target="_self">positive thinking</a>. Hypnosis is an art to develop power of our thoughts to such an extent that they start influencing our life and its surroundings directly.</span>
 </div>
 
 <div style="text-align: justify;">
@@ -52,7 +52,7 @@ tags:
 </div>
 
 <div style="text-align: justify;">
-  <span style="font-size: large;"><strong>Hypnosis, positive thinking and philosophy</strong> can lead more <a href="http://www.philosophyinlife.info/18/philosophy-of-happiness.htm" target="_self">happiness in our life</a>, we can achieve more with our limited resources with a calm mind.</span>
+  <span style="font-size: large;"><strong>Hypnosis, positive thinking and philosophy</strong> can lead more <a href="http://www.philosophyinlife.info/philosophy-of-happiness/" target="_self">happiness in our life</a>, we can achieve more with our limited resources with a calm mind.</span>
 </div>
 
 <div style="text-align: justify;">
@@ -60,7 +60,7 @@ tags:
 </div>
 
 <div style="text-align: justify;">
-  <span style="font-size: large;">Our life isn&#8217;t a mission, a company to get more market share and profits, a machine to get more output, <a href="http://www.philosophyinlife.info/25/life-is-simple-and-easy-enjoy-life.htm" target="_self">life is easy and cool</a> and <a href="http://www.philosophyinlife.info/29/everybody-has-a-right-to-survive.htm" target="_self">every body has a right to survive</a>. This is not just a positive view of life, a philosophy but the real meaning of life.</span>
+  <span style="font-size: large;">Our life isn&#8217;t a mission, a company to get more market share and profits, a machine to get more output, <a href="http://www.philosophyinlife.info/life-is-simple-and-easy-enjoy-life/" target="_self">life is easy and cool</a> and <a href="http://www.philosophyinlife.info/everybody-has-a-right-to-survive/" target="_self">every body has a right to survive</a>. This is not just a positive view of life, a philosophy but the real meaning of life.</span>
 </div>
 
 <div style="text-align: justify;">
@@ -68,11 +68,11 @@ tags:
 </div>
 
 > <div style="text-align: justify;">
->   <span style="font-size: large;">If we can understand any of these <em>basic principles of life</em>, which are natural and not made by men then we can master any one of the skill that we love and can get all the benefits of life. We can do it with anything we like, by following anything that inspires us which can be either <em>art of hypnosis or positive thinking</em>. Any of them will lead to same destination i.e. <a href="http://www.philosophyinlife.info/38/hypnosis-for-positive-thinking.htm" target="_self">positive thinking will lead to self-hypnosis</a> or mastering art of hypnosis will lead to a positive mindset.</span>
+>   <span style="font-size: large;">If we can understand any of these <em>basic principles of life</em>, which are natural and not made by men then we can master any one of the skill that we love and can get all the benefits of life. We can do it with anything we like, by following anything that inspires us which can be either <em>art of hypnosis or positive thinking</em>. Any of them will lead to same destination i.e. <a href="http://www.philosophyinlife.info/hypnosis-for-positive-thinking/" target="_self">positive thinking will lead to self-hypnosis</a> or mastering art of hypnosis will lead to a positive mindset.</span>
 > </div>
 
 <div style="text-align: justify;">
-  Read more in a related post titled <a href="http://www.philosophyinlife.info/1/philosophy-of-manifestation.htm" target="_self">philosophy of manifestation</a> and watch this video on Hypnosis.
+  Read more in a related post titled <a href="http://www.philosophyinlife.info/philosophy-of-manifestation/" target="_self">philosophy of manifestation</a> and watch this video on Hypnosis.
 </div>
 
 <div style="text-align: center;">
