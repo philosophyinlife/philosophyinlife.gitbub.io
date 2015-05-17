@@ -73,11 +73,11 @@ Some people who look for a quick fix start using unnatural means like drinking, 
 
 7. [Philosophy of Life][8]
 
- [1]: http://www.philosophyinlife.info/293/what-is-meaning-of-life.htm "What Is The Meaning of The Life"
- [2]: http://www.philosophyinlife.info/475/learning-meaning-life-nature.htm
- [3]: http://www.philosophyinlife.info/148/philosophical-meaning-life.htm "What is the Philosophical Meaning of Life"
- [4]: http://www.philosophyinlife.info/33/role-of-happiness-in-a-meaningful-life.htm "Role of Happiness in A Meaningful Life?"
- [5]: http://www.philosophyinlife.info/4/life-its-philosophy-and-views.htm "Life, its Philosophy and Views"
- [6]: http://www.philosophyinlife.info/314/real-purpose-meaning-life.htm "What Is then the Real Purpose and Meaning of Life"
- [7]: http://www.philosophyinlife.info/312/making-meaningful-life.htm "Making A Meaningful Life"
- [8]: http://www.philosophyinlife.info/220/basic-philosophies-life-video.htm "Philosophy of Life Video"
+ [1]: http://www.philosophyinlife.info/what-is-meaning-of-life/ "What Is The Meaning of The Life"
+ [2]: http://www.philosophyinlife.info/learning-meaning-life-nature/
+ [3]: http://www.philosophyinlife.info/philosophical-meaning-life/ "What is the Philosophical Meaning of Life"
+ [4]: http://www.philosophyinlife.info/role-of-happiness-in-a-meaningful-life/ "Role of Happiness in A Meaningful Life?"
+ [5]: http://www.philosophyinlife.info/life-its-philosophy-and-views/ "Life, its Philosophy and Views"
+ [6]: http://www.philosophyinlife.info/real-purpose-meaning-life/ "What Is then the Real Purpose and Meaning of Life"
+ [7]: http://www.philosophyinlife.info/making-meaningful-life/ "Making A Meaningful Life"
+ [8]: http://www.philosophyinlife.info/basic-philosophies-life-video/ "Philosophy of Life Video"
