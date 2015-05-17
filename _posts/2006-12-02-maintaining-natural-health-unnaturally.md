@@ -97,7 +97,7 @@ tags:
 </p>
 
 <p class="MsoNormal" style="text-align: justify;">
-  <span style="font-size: 130%;"><em>Health and fitness are actually an attribute of happy and peaceful life</em>, if we are enjoying this <a href="http://www.philosophyinlife.info/30/philosophy-of-happiness-2.htm" target="_self">happiness naturally</a> then there is no need to ruin this peace with some clutter.</span><span style="font-size: 130%;"> </span><span style="font-size: 130%;">There are also some natural food products like <a href="http://www.healthyganoderma.com/natural-health-care/129/health-benefits-of-ganoderma-mushrooms.htm" target="_blank">Ganoderma</a> Lucidum which are know to induce health since long time. We should use any of these products only when we really need them or our current situation or nature of job doesn&#8217;t permit us to lead a natural life style.</span>
+  <span style="font-size: 130%;"><em>Health and fitness are actually an attribute of happy and peaceful life</em>, if we are enjoying this <a href="http://www.philosophyinlife.info/philosophy-of-happiness-2/" target="_self">happiness naturally</a> then there is no need to ruin this peace with some clutter.</span><span style="font-size: 130%;"> </span><span style="font-size: 130%;">There are also some natural food products like <a href="http://www.healthyganoderma.com/natural-health-care/health-benefits-of-ganoderma-mushrooms/" target="_blank">Ganoderma</a> Lucidum which are know to induce health since long time. We should use any of these products only when we really need them or our current situation or nature of job doesn&#8217;t permit us to lead a natural life style.</span>
 </p>
 
 <h2 style="text-align: center;">
@@ -109,7 +109,7 @@ tags:
 </p>
 
 <p class="MsoNormal" style="text-align: justify;">
-  <span style="font-size: 130%;">Today we are more interested in looking for products which have scientifically proven nutritive elements, is processed in a healthy, state of the art conditions, is much more better then what nature can produce. It seems as if man knows more then nature, it can do better then nature. We have developed our own <a title="Maintaining Natural Health Unnaturally" href="http://www.philosophyinlife.info/8/maintaining-natural-health-unnaturally.htm" target="_blank">philosophy of health</a>, we are overconfident with our little achievements.<br /> </span>
+  <span style="font-size: 130%;">Today we are more interested in looking for products which have scientifically proven nutritive elements, is processed in a healthy, state of the art conditions, is much more better then what nature can produce. It seems as if man knows more then nature, it can do better then nature. We have developed our own <a title="Maintaining Natural Health Unnaturally" href="http://www.philosophyinlife.info/maintaining-natural-health-unnaturally/" target="_self">philosophy of health</a>, we are overconfident with our little achievements.<br /> </span>
 </p>
 
 <p class="MsoNormal" style="text-align: justify;">
