@@ -1,16 +1,8 @@
 ---
 title: 'Mental Purity &#038; Three Fold Yoga'
 author: Yogesh Bailwal
-excerpt: |
-  
-  
-  
-  
-  
-  
-  
-  
-  Renouncing the fruit of action, one moves from individual consciousness to universal consciousness which is a step in the right direction of spiritual growth. It helps him to reduce ego-involvement by thinking of others in preference to himself. Any movement in thought from self based desires to universal good is a step towards spiritual attainment.
+excerpt: |Renouncing the fruit of action, one moves from individual consciousness to universal consciousness which is a step in the right direction of spiritual growth. It helps him to reduce ego-involvement by thinking of others in preference to himself. Any movement in thought from self based desires to universal good is a step towards spiritual attainment.
+description: Renouncing the fruit of action, one moves from individual consciousness to universal consciousness which is a step in the right direction of spiritual growth.
 layout: post
 permalink: /mental-purity-fold-yoga/
 ks_metadata:
@@ -19,10 +11,12 @@ wpsd_autopost:
   - 1
 wpr-options:
   - YToxOntpOjE7YToxMDp7czozOiJuaWQiO3M6MToiMSI7czo3OiJzdWJqZWN0IjtzOjA6IiI7czo4OiJ0ZXh0Ym9keSI7czowOiIiO3M6ODoiaHRtbGJvZHkiO3M6MDoiIjtzOjc6ImRpc2FibGUiO2k6MDtzOjE1OiJub2N1c3RvbWl6YXRpb24iO2k6MTtzOjEyOiJub3Bvc3RzZXJpZXMiO2k6MTtzOjEwOiJodG1sZW5hYmxlIjtpOjE7czoxMjoiYXR0YWNoaW1hZ2VzIjtpOjE7czoyMToic2tpcGFjdGl2ZXN1YnNjcmliZXJzIjtpOjE7fX0=
+
 categories:
   - Philosophy
   - Spirituality
   - Yoga
+
 tags:
   - body centric activity
   - eight fold yoga
