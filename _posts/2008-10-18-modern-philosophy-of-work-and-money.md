@@ -61,5 +61,5 @@ tags:
 </p>
 
 <p align="justify">
-  <span style="font-size: 130%;"> More on <a title="Philosophy of Work Part-II" href="http://www.philosophyinlife.info/philosophy-of-work/">philosophy of work</a> and <a href="http://www.philosophyinlife.info/1/philosophy-of-manifestation.htm">philosophy of money</a> in other posts. This post was about the illusion we have today on <em>work for money or <a href="http://www.philosophyinlife.info/20/modern-philosophy-of-work-and-money.htm">money for work</a></em>.<br /> </span>
+  <span style="font-size: 130%;"> More on <a title="Philosophy of Work Part-II" href="http://www.philosophyinlife.info/philosophy-of-work/">philosophy of work</a> and <a href="http://www.philosophyinlife.info/philosophy-of-manifestation/">philosophy of money</a> in other posts. This post was about the illusion we have today on <em>work for money or <a href="http://www.philosophyinlife.info/modern-philosophy-of-work-and-money/">money for work</a></em>.<br /> </span>
 </p>
