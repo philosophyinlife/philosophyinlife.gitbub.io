@@ -29,7 +29,7 @@ tags:
 <div style="text-align: justify;">
   <div style="text-align: justify;">
     <p>
-      <span style="font-size: 130%;">Understanding <a style="font-weight: bold;" title="Philosophy of Eternal Blissfulness- A Ceaseless State-II" href="http://www.philosophyinlife.info/15/philosophy-of-eternal-blissfulness-a-ceaseless-state-ii.htm">philosophy of eternal blissfulness</a> which is a ceaseless state, isn&#8217;t unattainable. Its available to each one of us, without any physical hard work. This blissfulness is a super-set of all bliss-es and all forms of happiness-es known to man. It&#8217;s so much powerful that everything in the universe that we are aware of (existence) strives for it, tries to reach the state of eternal bliss, using multiple paths, multiple philosophies. May be we don&#8217;t known about it (consciously), but it is very much there and is a never ending trend. </span>
+      <span style="font-size: 130%;">Understanding <a style="font-weight: bold;" title="Philosophy of Eternal Blissfulness- A Ceaseless State-II" href="http://www.philosophyinlife.info/philosophy-of-eternal-blissfulness-a-ceaseless-state-ii/">philosophy of eternal blissfulness</a> which is a ceaseless state, isn&#8217;t unattainable. Its available to each one of us, without any physical hard work. This blissfulness is a super-set of all bliss-es and all forms of happiness-es known to man. It&#8217;s so much powerful that everything in the universe that we are aware of (existence) strives for it, tries to reach the state of eternal bliss, using multiple paths, multiple philosophies. May be we don&#8217;t known about it (consciously), but it is very much there and is a never ending trend. </span>
     </p>
     
     <blockquote>
@@ -68,6 +68,6 @@ tags:
   </p>
   
   <p>
-    <span style="font-size: 130%;">All these activities, take place because we have volatile state of mind, we are ready to act and react and with new developments this volatility has increased people are now more disturbed, they are now performing more tasks mentality then they used to perform because our mind (we) has somewhere moved away from the state of balance, peace and today subconsciously we are trying hard to perform well to reach somewhere near that state, increasing distance from that blissful state has actually increase the subconscious craving more. Something which is also <a href="http://www.philosophyinlife.info/28/philosophy-of-love.htm">experienced by lovers</a>.<br /> </span>
+    <span style="font-size: 130%;">All these activities, take place because we have volatile state of mind, we are ready to act and react and with new developments this volatility has increased people are now more disturbed, they are now performing more tasks mentality then they used to perform because our mind (we) has somewhere moved away from the state of balance, peace and today subconsciously we are trying hard to perform well to reach somewhere near that state, increasing distance from that blissful state has actually increase the subconscious craving more. Something which is also <a href="http://www.philosophyinlife.info/philosophy-of-love/">experienced by lovers</a>.<br /> </span>
   </p>
 </div>
