@@ -1,8 +1,7 @@
 ---
 title: 'Mental Purity &#038; Three Fold Yoga'
 author: Yogesh Bailwal
-excerpt: |Renouncing the fruit of action, one moves from individual consciousness to universal consciousness which is a step in the right direction of spiritual growth. It helps him to reduce ego-involvement by thinking of others in preference to himself. Any movement in thought from self based desires to universal good is a step towards spiritual attainment.
-description: Renouncing the fruit of action, one moves from individual consciousness to universal consciousness which is a step in the right direction of spiritual growth.
+excerpt: Renouncing the fruit of action, helps to reduce ego-involvement by thinking of others in preference to himself.
 layout: post
 permalink: /mental-purity-fold-yoga/
 ks_metadata:
