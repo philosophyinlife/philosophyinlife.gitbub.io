@@ -37,7 +37,7 @@ layout: default
             {% endfor %}
             {% if category %}
                 {% capture category_content %} in <span class="label" style="background-color:{{ category.color }}"><a href="/blog/category/{{ category.slug }}/">{{ category.name }}</a></span>{% endcapture %}
-            {% endif %}
+           <!-- {% endif %}  -->
         {% else %}
             {% assign category_content = '' %}
         {% endif %}
