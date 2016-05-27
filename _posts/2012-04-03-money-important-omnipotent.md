@@ -16,7 +16,9 @@ We cannot deny the role and importance of money in our modern society, it is res
 
 Money is involved in everything that is happening or taking place, its a form of energy which transforms itself from one form to another, from one hand to another, from one profession to another.
 
-Today role of money has changed rapidly from being important to omnipotent, it is more or less source and destination of almost everything taking place in modern societies.
+Today role of money has changed rapidly from being important to omnipotent, it is more or less a source and destination of almost everything taking place in modern societies.
+
+All the major problems that are making survival of living being on this planet difficult if not impossible today like pollution, global warming, physical and mental health problems, extintion of some species etc. Money itself isn't bad, its a necessity of life, helps life but the way its misused for apparently selfish motives is distroying peace and harmony of this planet. Its distrubing the natural balance which is forcing nature to take action and reinstate the balance on its own, which is leading to disasters and natural calamities including changing climate.
 
 The way in which money is influencing our life is dangerous, which can lead to a blind society.
 
