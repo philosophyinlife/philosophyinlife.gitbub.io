@@ -24,7 +24,7 @@ tags:
   - unique nature of life
   - why life is unique
 ---
-Well, we cannot restrict meaning of life to our limited power of imagination, as life even exists there where we have no reach, even beyond the level of our imagination, even beyond the reach of modern science and scientists.  Our knowledge is limited (although we always try to extend and improve it), we do not know everything about our surrounding, we do not know even about things we have with us or even about our own self (there is a [branch of Yoga][1] which tries to explore one’s own self and those who are successful on this path become self-realized).  So, under these circumstances it is not possible to give a universal definition of life, its meaning and its purpose.
+Well, we cannot restrict meaning of life to our limited power of imagination, as life even exists there where we have no reach or have not reached yet, even beyond the level of our imagination, even beyond the reach of modern science and scientists.  Our knowledge is limited (although we always constantly expanding and improve it with our growing experience & learnings), we do not know everything about our surrounding, we do not know even about things we have with us or even about our own self (there is a [branch of Yoga][1] which tries to explore one’s own self and those who are successful on this path become self-realized).  So, under these circumstances it is not possible to give a universal definition of life, its meaning and its purpose as it needs to be customized, adapted & adopted as per our individual priorities, preferences, understanding as well as circumstances.
 
 <h2 style="text-align: center;">
   Can We All Have Similar Purpose or Meaning of Life
@@ -42,7 +42,7 @@ Now, if we leave other four fingers in our hand and even thumb to some extent an
 
 > Just like the uniqueness of every thumb impression, our individual meaning of life is also very unique, even if we are not aware or have identified ways to express it. Our thoughts shape our life and its meaning for us. What life means to us depends on whether we have a <a href="../38/hypnosis-for-positive-thinking.htm" target="_self">positive or negative thinking</a>, level of our confidence, our views about our own self and about the society, what is important to us, how do we measure success.
 
-This post &#8220;[What is Real Purpose and Meaning][2]&#8221; is a part continued from the post titled &#8220;<a href="../293/what-is-meaning-of-life.htm" target="_self">What Is the meaning of the life</a>&#8220;, &#8220;<a href="http://www.philosophyinlife.info/312/making-meaningful-life.htm" target="_self">Making A Meaningful Life</a>&#8221; ….. to be continued in …. updated ….  in this post or next post…later.
+This post &#8220;[What is Real Purpose and Meaning][2]&#8221; is a part continued from the post titled &#8220;<a href="../what-is-meaning-of-life/" target="_self">What Is the meaning of the life</a>&#8220;, &#8220;<a href="http://www.philosophyinlife.info/making-meaningful-life/" target="_self">Making A Meaningful Life</a>&#8221; ….. to be continued in …. updated ….  in this post or next post…later.
 
- [1]: http://www.philosophyinlife.info/540/mental-purity-fold-yoga.htm "Mental Purity & Three Fold Yoga"
- [2]: http://www.philosophyinlife.info/314/real-purpose-meaning-life.htm
+ [1]: http://www.philosophyinlife.info/mental-purity-fold-yoga/ "Mental Purity & Three Fold Yoga"
+ [2]: http://www.philosophyinlife.info/real-purpose-meaning-life/
