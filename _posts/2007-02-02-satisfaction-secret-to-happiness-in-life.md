@@ -60,5 +60,5 @@ tags:
 > </p>
 
 <div style="text-align: justify;">
-  <span style="font-size: 130%;">If we think over these basic things in life for a moment I don&#8217;t thing <a title="Satisfaction- An Open Secret to Happiness in Life" href="http://www.philosophyinlife.info/satisfaction-an-open-secret-to-happiness-in-life/"><strong>Satisfaction as a secret to Happiness in Life</strong></a> won&#8217;t in fact prove to be one of the fact to everlasting happiness in life.<br /> </span>
+  <span style="font-size: 130%;">If we think over these basic things in life for a moment I don&#8217;t thing <a title="Satisfaction- An Open Secret to Happiness in Life" href="http://www.philosophyinlife.info/satisfaction-secret-to-happiness-in-life/"><strong>Satisfaction as a secret to Happiness in Life</strong></a> won&#8217;t in fact prove to be one of the fact to everlasting happiness in life.<br /> </span>
 </div>
